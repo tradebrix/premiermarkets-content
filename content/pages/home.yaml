@@ -1,0 +1,13 @@
+hero:
+  title: Trade CFDs with e
+  highlightedText: Premier Markets
+  subtitle: >-
+    Access global markets with advanced trading tools, competitive spreads, and
+    institutional grade execution.
+  badgeText: 🚀 Regulated & Secure
+  primaryCTA:
+    text: Start Trading
+    link: /sign-up
+  secondaryCTA:
+    text: Try Demo Account
+    link: /sign-up

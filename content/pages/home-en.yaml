@@ -1,0 +1,12 @@
+hero:
+  title: Trade CFDs with Premier Markets
+  subtitle: >-
+    Access global markets with advanced trading tools, competitive spreads, and
+    institutional grade execution.
+  primaryCTA:
+    text: Start Trading
+    link: /sign-up
+  secondaryCTA:
+    text: Try Demo Account
+    link: /demo
+

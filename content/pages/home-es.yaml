@@ -1,0 +1,11 @@
+hero:
+  title: Opera CFDs con Premier Markets
+  subtitle: Accede a los mercados globales con herramientas de trading avanzadas, spreads competitivos y ejecución de grado institucional.
+  primaryCTA:
+    text: Comenzar a Operar
+    link: /sign-up
+  secondaryCTA:
+    text: Prueba Cuenta Demo
+    link: /demo
+
+

@@ -1,0 +1,14 @@
+languageCode: en
+locale: en
+mainTitle: Join
+highlightedNumber: 50,000+
+titleContinuation: traders who trust us
+subtitle: Experience advanced trading tools, transparent and competitive pricing, lightning-fast execution, and dedicated support trusted by traders worldwide.
+primaryButtonText: Start Trading
+primaryButtonLink: /sign-up
+secondaryButtonText: Try Demo Account
+secondaryButtonLink: /demo
+cardTitle: Everything you need to trade the markets
+cardButtonText: Explore Accounts
+cardButtonLink: /trading/accounts
+
