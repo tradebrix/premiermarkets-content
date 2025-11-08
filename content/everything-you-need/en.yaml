@@ -3,10 +3,11 @@ locale: en
 sectionTag: Daily Updates
 title: Everything you need to trade the markets
 viewAllText: View all
-viewAllLink: /blog
+viewAllLink: https://secure.premiermarkets.com
 bannerTitle: Premier Market - Market Cap Weighted PR (BKP)
-bannerDescription: Stay ahead of the latest tech trends with our algorithmically selected portfolio of the 15 top tech stocks each month.
+bannerDescription: >-
+  Stay ahead of the latest tech trends with our algorithmically selected
+  portfolio of the 15 top tech stocks each month.
 bannerSource1: Google
 bannerSource2: Trending
 bannerSource3: Investing
-
