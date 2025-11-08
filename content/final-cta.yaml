@@ -1,6 +1,8 @@
 step1Label: Signup
 step2Label: Deposit
 step3Label: Start Trading
-mainText: Ready to trade smarter? Get instant access to global markets with reliable tools and 24/5 support.
+mainText: >-
+  Ready to trade smarter? Get instant access to global markets with reliable
+  tools and 24/5 support.
 primaryButtonText: Get Started
-primaryButtonLink: /sign-up
+primaryButtonLink: https://secure.premiermarkets.com/register
