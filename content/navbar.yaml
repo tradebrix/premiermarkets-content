@@ -2,4 +2,4 @@ loginButtonText: Login
 registerButtonText: Register
 links:
   - title: Trading
-    href: https://secure.premiermarkets.com
+    href: /trading
