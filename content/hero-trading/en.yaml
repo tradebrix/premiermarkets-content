@@ -1,10 +1,10 @@
 languageCode: en
 locale: en
-heroTitle: Trade CFDs with Premier Marketsss
+heroTitle: Trade CFDs with Premier Markets
 heroSubtitle: >-
   Access global markets with advanced trading tools, competitive spreads, and
   institutional grade execution.
 primaryButtonText: Start Trading
-primaryButtonLink: /sign-up
+primaryButtonLink: https://secure.premiermarkets.com/register
 secondaryButtonText: Try Demo Account
-secondaryButtonLink: /demo
+secondaryButtonLink: https://secure.premiermarkets.com/register-demo
