@@ -1,0 +1,11 @@
+languageCode: en
+locale: en
+loginButtonText: Login
+registerButtonText: Register
+loginUrl: https://secure.premiermarkets.com/login
+registerUrl: https://secure.premiermarkets.com/register
+links:
+  - title: Trading
+    href: /trading
+  - title: Promotions
+    href: /promotions
