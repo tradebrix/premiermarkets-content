@@ -1,7 +1,9 @@
 languageCode: en
 locale: en
 title: Our Markets
-subtitle: Stay informed with the data that matters, on 17,000+ markets. Get the latest news, trader sentiment, spreads, price action and much more.
+subtitle: >-
+  Stay informed with the data that matters, on 17,000+ markets. Get the latest
+  news, trader sentiment, spreads, price action and much more.
 highlightedText: 17,000+ markets
 tabMostTraded: Most Traded
 tabCommodities: Commodities
@@ -16,6 +18,7 @@ labelSellers: Sellers
 labelHigh: High
 labelLow: Low
 browseButtonText: Browse all markets
-browseButtonLink: /trading/markets
-disclaimerText: Market data is delayed and may differ from real-time conditions. Should not be used for trading or investment decisions.
-
+browseButtonLink: https://secure.premiermarkets.com
+disclaimerText: >-
+  Market data is delayed and may differ from real-time conditions. Should not be
+  used for trading or investment decisions.
