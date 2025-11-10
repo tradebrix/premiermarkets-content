@@ -5,5 +5,5 @@ registerButtonText: Register
 loginUrl: https://secure.premiermarkets.com/login
 registerUrl: https://secure.premiermarkets.com/register
 links:
-  - title: Trading
-    href: /trading
+  - title: Trade
+    href: https://secure.premiermarkets.com/register
