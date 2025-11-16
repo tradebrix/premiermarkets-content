@@ -7,3 +7,6 @@ registerUrl: https://secure.premiermarkets.com/register
 links:
   - title: Trade
     href: https://secure.premiermarkets.com/register
+    children:
+      - title: Accounts
+        href: /trading/accounts
