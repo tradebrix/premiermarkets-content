@@ -10,3 +10,7 @@ links:
     children:
       - title: Accounts
         href: /trading/accounts
+        icon: account
+      - title: Why trade with Premier?
+        href: /trading/why-trade-with-premier
+        icon: info
