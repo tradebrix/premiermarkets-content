@@ -5,7 +5,7 @@ description: >-
   cryptocurrencies.
 openAccountText: Open Account
 openAccountLink: https://secure.premiermarkets.com/register
-marketsTitle: Trade
+marketsTitle: Trading
 marketsLinks:
   - title: Accounts
     href: /trading/accounts
