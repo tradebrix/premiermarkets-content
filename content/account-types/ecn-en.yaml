@@ -1,0 +1,15 @@
+accountSlug: ecn-en
+locale: en
+accountType: ecn
+name: ECN Account
+description: >-
+  Experience institutional-grade trading with raw spreads, instant execution,
+  and direct access to deep market liquidity.
+features:
+  - 'Minimum Deposit: $10,000'
+  - Spreads from 0.0 pips
+  - 'Maximum Leverage: 1:1000'
+  - 'Base currency: USD, GBP, EUR, CHF'
+ctaButtonText: Start Now
+ctaButtonLink: https://secure.premiermarkets.com/register
+displayOrder: 3
