@@ -1,0 +1,15 @@
+accountSlug: standard-en
+locale: en
+accountType: standard
+name: Standard Account
+description: >-
+  Open our most popular account to get bonuses that boost your trading power and
+  reduce the risk to your capital.
+features:
+  - 'Minimum deposit: $250'
+  - 'Spreads from: 1.5 pips'
+  - 'Maximum leverage: 1:1000'
+  - 'Base currency: USD, GBP, EUR, CHF'
+ctaButtonText: Start Now
+ctaButtonLink: https://secure.premiermarkets.com/register
+displayOrder: 1
