@@ -1,0 +1,11 @@
+cardSlug: neteller-en
+locale: en
+name: neteller
+description: Deposit or withdraw instantly with Neteller.
+supportedCurrencies: USD
+processingTime: Instant
+logo: neteller
+featured: false
+buttonText: Deposit
+buttonLink: https://secure.premiermarkets.com/login
+displayOrder: 3
