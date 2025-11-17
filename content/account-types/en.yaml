@@ -1,8 +1,10 @@
 accountSlug: en
 locale: en
 accountType: standard
-name: Standard Account
-description: Open our most popular account to get bonuses that boost your trading power.
+name: Pro Account
+description: >-
+  Open our most popular account to get bonuses that boost your trading power and
+  reduce the risk to your capital.
 features:
   - 'Minimum deposit: $250'
   - 'Spreads from: 1.5 pips'
