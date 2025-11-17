@@ -14,3 +14,6 @@ links:
       - title: Why trade with Premier?
         href: /trading/why-trade-with-premier
         icon: info
+      - title: Deposits & Withdrawals
+        href: /trading/deposits-withdrawals
+        icon: wallet
