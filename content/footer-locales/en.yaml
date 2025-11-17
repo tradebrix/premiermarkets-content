@@ -1,0 +1,42 @@
+languageCode: en
+locale: en
+description: >-
+  Trade CFDs with confidence on forex, commodities, indices, and
+  cryptocurrencies.
+openAccountText: Open Account
+openAccountLink: https://secure.premiermarkets.com/register
+marketsTitle: Trade
+marketsLinks:
+  - title: Accounts
+    href: /trading/accounts
+companyTitle: Company
+companyLinks: []
+legalTitle: Legal
+legalLinks:
+  - title: Risk Warning
+    href: /legal/risk-warning
+  - title: Terms & Conditions
+    href: /legal/terms-conditions
+  - title: Privacy Policy
+    href: /legal/privacy-policy
+  - title: Cookie Policy
+    href: /legal/cookie-policy
+newsletterTitle: Trading Updates
+newsletterPlaceholder: Your email
+newsletterDescription: >-
+  Get market insights, trading tips, and platform updates delivered to your
+  inbox.
+riskWarning: >-
+  CFDs are complex instruments and come with a high risk of losing money rapidly
+  due to leverage. 21.38% of retail investor accounts generate profits when
+  trading CFDs with this provider. You should consider whether you understand
+  how CFDs work and whether you can afford to take the high risk of losing your
+  money.
+companyInfo: >-
+  Premier Markets Ltd, trading as Premier Markets is a company incorporated
+  under company number: A000003075 in Anguilla. Our registered office is located
+  at Anguilla, The Valley, Kismet House, Sandy Hill, PO Box P.O.Box 174The
+  information on this site is not directed at residents of Russia, Afghanistan,
+  Belgium, Canada, India, United States or any country or jurisdiction where
+  such distribution or use would be contrary to local law, sanctions or
+  regulation.
