@@ -1,0 +1,7 @@
+cardSlug: performance-en
+locale: en
+title: Performance
+subtitle: Tools, data, and execution engineered for serious trading.
+backgroundColor: 'linear-gradient(152deg, #ED1D25 1.98%, #500407 96.02%)'
+backgroundImage: /images/aboutus/aboutus-value-performance.png
+displayOrder: 3

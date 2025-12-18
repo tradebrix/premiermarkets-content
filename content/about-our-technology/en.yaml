@@ -1,0 +1,14 @@
+languageCode: en
+locale: en
+titleHighlight: Our
+title: ' Technology & Platforms'
+subtitle: >-
+  Trade on MetaTrader 5 and Premier ProTrader, both powered by low-latency
+  servers, deep liquidity, and synchronized across devices.
+primaryButtonText: Discover MetaTrader 5
+primaryButtonLink: /platforms/mt5
+secondaryButtonText: Discover Premier ProTrader
+secondaryButtonLink: /platforms/protrader
+caption: >-
+  From strategy automation to live charting, our platforms are built for
+  precision and consistency.

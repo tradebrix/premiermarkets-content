@@ -1,40 +1,62 @@
 languageCode: en
 locale: en
 description: >-
-  Trade CFDs with confidence on forex, commodities, indices, and
-  cryptocurrencies.
-openAccountText: Open Account
-openAccountLink: https://secure.premiermarkets.com/register
-marketsTitle: Trading
-marketsLinks:
+  With Premier Markets you get more than a trading account: you get transparent
+  pricing, powerful tools, and a trading partner invested in your long-term results.
+quickLinksTitle: Quick links
+quickLinks:
+  - title: Start Trading
+    href: /sign-up
   - title: Accounts
     href: /trading/accounts
-  - title: Why Premier Markets?
-    href: /trading/why-trade-with-premier
-  - title: Deposits & Withdrawals
+  - title: Deposits and Withdrawals
     href: /trading/deposits-withdrawals
+  - title: MT5
+    href: /platforms/mt5
+  - title: ProTrader
+    href: /platforms/protrader
+  - title: PAMM Investing
+    href: /pamm
+marketsTitle: Markets
+marketsLinks:
+  - title: Forex
+    href: /markets/forex
+  - title: Metals
+    href: /markets/metals
+  - title: Shares
+    href: /markets/shares
+  - title: Commodities
+    href: /markets/commodities
+  - title: Indices
+    href: /markets/indices
+  - title: Crypto
+    href: /markets/crypto
 companyTitle: Company
-companyLinks: []
-legalTitle: Legal
-legalLinks:
-  - title: Risk Warning
-    href: /legal/risk-warning
-  - title: Terms & Conditions
-    href: /legal/terms-conditions
-  - title: Privacy Policy
-    href: /legal/privacy-policy
-  - title: Cookie Policy
-    href: /legal/cookie-policy
-newsletterTitle: Trading Updates
-newsletterPlaceholder: Your email
-newsletterDescription: >-
-  Get market insights, trading tips, and platform updates delivered to your
-  inbox.
-riskWarning: >-
+companyLinks:
+  - title: About Us
+    href: /about
+  - title: Why Trade with Premier?
+    href: /why-us
+  - title: Security of Funds
+    href: /security
+  - title: Careers
+    href: /careers
+  - title: Partnerships
+    href: /partnerships
+supportTitle: Support
+supportLinks:
+  - title: Contact Us
+    href: /contact
+  - title: Legal Documents
+    href: /legal
+paragraph1: >-
   CFDs are complex instruments and come with a high risk of losing money rapidly
   due to leverage. You should consider whether you understand how CFDs work and
   whether you can afford to take the high risk of losing your money.
-companyInfo: >-
+paragraph2: >-
+  This website and the company's marketing activities are not directed at UK or
+  EU residents.
+paragraph3: >-
   Premier Markets Ltd, trading as Premier Markets is a company incorporated
   under company number: A000003075 in Anguilla. Our registered office is located
   at The Valley, Kismet House, Sandy Hill, P.O. Box 174, Anguilla. The
@@ -42,3 +64,4 @@ companyInfo: >-
   Belgium, Canada, India, United States or any country or jurisdiction where
   such distribution or use would be contrary to local law, sanctions or
   regulation.
+copyright: Copyright © 2025 Premier Markets - All Rights Reserved
