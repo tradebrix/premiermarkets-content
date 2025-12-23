@@ -17,3 +17,15 @@ links:
       - title: Deposits & Withdrawals
         href: /trading/deposits-withdrawals
         icon: wallet
+  - title: Discover
+    href: /trading/why-trade-with-premier
+    children: []
+  - title: Promotions
+    href: /trading/why-trade-with-premier
+    children: []
+  - title: Company
+    href: /trading/why-trade-with-premier
+    children: []
+partnerships:
+  title: Partnerships
+  href: /register

@@ -7,17 +7,17 @@ description: >-
 quickLinksTitle: Quick links
 quickLinks:
   - title: Start Trading
-    href: /sign-up
+    href: /register
   - title: Accounts
     href: /trading/accounts
   - title: Deposits and Withdrawals
     href: /trading/deposits-withdrawals
   - title: MT5
-    href: /platforms/mt5
+    href: /register
   - title: ProTrader
-    href: /platforms/protrader
+    href: /register
   - title: PAMM Investing
-    href: /pamm
+    href: /register
 marketsTitle: Markets
 marketsLinks:
   - title: Forex
@@ -37,19 +37,19 @@ companyLinks:
   - title: About Us
     href: /about
   - title: Why Trade with Premier?
-    href: /why-trade-with-premier
+    href: /trading/why-trade-with-premier
   - title: Security of Funds
-    href: /security
+    href: /register
   - title: Careers
-    href: /careers
+    href: /register
   - title: Partnerships
-    href: /partnerships
+    href: /register
 supportTitle: Support
 supportLinks:
   - title: Contact Us
-    href: /contact
+    href: /register
   - title: Legal Documents
-    href: /legal
+    href: /register
 paragraph1: >-
   CFDs are complex instruments and come with a high risk of losing money rapidly
   due to leverage. You should consider whether you understand how CFDs work and
