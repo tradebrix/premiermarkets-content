@@ -17,3 +17,15 @@ links:
       - title: Deposits & Withdrawals
         href: /trading/deposits-withdrawals
         icon: wallet
+  - title: Discover
+    href: discover
+    children: []
+  - title: Promotions
+    href: promotions
+    children: []
+  - title: Company
+    href: company
+    children: []
+partnerships:
+  title: Partnerships
+  href: partnerships
