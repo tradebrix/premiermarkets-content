@@ -2,7 +2,8 @@ languageCode: en
 locale: en
 description: >-
   With Premier Markets you get more than a trading account: you get transparent
-  pricing, powerful tools, and a trading partner invested in your long-term results.
+  pricing, powerful tools, and a trading partner invested in your long-term
+  results.
 quickLinksTitle: Quick links
 quickLinks:
   - title: Start Trading
@@ -36,7 +37,7 @@ companyLinks:
   - title: About Us
     href: /about
   - title: Why Trade with Premier?
-    href: /why-us
+    href: /why-trade-with-premier
   - title: Security of Funds
     href: /security
   - title: Careers

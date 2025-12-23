@@ -1,18 +1,32 @@
 languageCode: en
 locale: en
-badge1Text: $0 Deposit Fees
-badge2Text: Spreads from 0.0 pips
-badge3Text: Secure Funds
 mainTitle: Access
 highlightedNumber: 17,000+
 titleContinuation: markets all in one
-subtitle: Trade forex, shares, indices, and commodities with competitive spreads, deep liquidity, and seamless execution.
+subtitle: >-
+  Trade forex, shares, indices, and commodities with competitive spreads, deep
+  liquidity, and seamless execution.
 forexTitle: Forex
-forexDescription: Trade the markets that never sleep. Access deep liquidity, tight spreads, and constant opportunity across major and minor currency pairs.
+forexDescription: >-
+  Trade the markets that never sleep. Access deep liquidity, tight spreads, and
+  constant opportunity across major and minor currency pairs.
 stocksTitle: Stocks
-stocksDescription: Follow the world's leading companies and react to market moves in real time, from Wall Street to global tech leaders.
+stocksDescription: >-
+  Follow the world's leading companies and react to market moves in real time,
+  from Wall Street to global tech leaders.
 indicesTitle: Indices
-indicesDescription: Trade major global indices with deep liquidity, precise execution, and competitive spreads across key markets.
+indicesDescription: >-
+  Trade major global indices with deep liquidity, precise execution, and
+  competitive spreads across key markets.
 commoditiesTitle: Commodities
-commoditiesDescription: Tap into global demand and supply trends by trading essential resources such as oil, gas, and agricultural products.
-
+commoditiesDescription: >-
+  Tap into global demand and supply trends by trading essential resources such
+  as oil, gas, and agricultural products.
+cryptoTitle: Crypto
+cryptoDescription: >-
+  Trade leading cryptocurrencies and digital assets as they reshape global
+  finance, capturing volatility, innovation, and opportunity in equal measure.
+metalsTitle: Metals
+metalsDescription: >-
+  Trade gold, silver, and other precious metals as a defensive play in volatile
+  markets, with deep liquidity, transparent pricing, and precise execution.
