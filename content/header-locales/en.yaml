@@ -1,0 +1,11 @@
+languageCode: en
+locale: en
+userTypeSelector:
+  enabled: true
+  firstTypeName: Trader
+  secondTypeName: Partner
+  defaultType: Trader
+links:
+  - text: ProTrader
+  - text: Support
+  - text: Open Demo
