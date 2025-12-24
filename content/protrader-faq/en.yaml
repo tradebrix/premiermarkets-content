@@ -1,0 +1,43 @@
+languageCode: en
+locale: en
+title: Frequently Asked Questions
+titleHighlight: Questions
+items:
+  - question: What is ProTrader?
+    answer: >-
+      ProTrader is Premier Markets’ browser-based trading platform that gives
+      you fast access to global markets with real-time data, advanced charting,
+      and built-in trading tools. You log in with your Premier trading account
+      and manage everything from one window.
+  - question: Can I use ProTrader on my phone or tablet?
+    answer: >-
+      Yes. ProTrader is optimised for desktop, tablet, and mobile. You can
+      access it directly from your browser on any device and monitor or manage
+      your trades on the go.
+  - question: Do I need to download anything to use ProTrader?
+    answer: >-
+      No. ProTrader runs directly in your web browser. Just open the platform
+      from the Premier Markets website, log in with your details, and start
+      trading without any downloads or plugins.
+  - question: How do I log in to ProTrader?
+    answer: >-
+      Use the login details for your Premier Markets trading account. Go to
+      platform.premiermarkets.com, enter your email and password, and login. You
+      will then access your trading account, see your balances, open positions,
+      and full trading dashboard.
+  - question: What markets can I trade on ProTrader?
+    answer: >-
+      The instruments you see in ProTrader match the products offered by Premier
+      Markets on your account type. This can include forex, indices,
+      commodities, shares, and crypto CFDs.
+  - question: Does ProTrader include TradingView charts?
+    answer: >-
+      Yes. ProTrader integrates TradingView-powered charts, giving you access to
+      advanced drawing tools, multiple timeframes, and technical indicators
+      directly inside the platform.
+  - question: Are my funds safe when trading on ProTrader?
+    answer: >-
+      Your funds are held with Premier Markets under our usual security and
+      segregation arrangements. ProTrader is simply the interface you use;
+      trading on ProTrader does not change how your funds are stored or
+      protected.

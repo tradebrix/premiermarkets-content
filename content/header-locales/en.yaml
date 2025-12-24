@@ -7,5 +7,6 @@ userTypeSelector:
   defaultType: Trader
 links:
   - text: ProTrader
+    href: /protrader
   - text: Support
   - text: Open Demo
