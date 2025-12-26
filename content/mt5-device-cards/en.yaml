@@ -1,0 +1,16 @@
+languageCode: en
+locale: en
+cards:
+  - icon: /icons/mt5/mt5-mobile.svg
+    title: MT5 for Mobile/Tablet
+    subtitle: Download from AppStore Or GooglePlay
+    linkTexts: AppStore,GooglePlay
+  - icon: /icons/mt5/mt5-desktop.svg
+    title: MT5 for PC
+    subtitle: Download for Windows
+  - icon: /icons/mt5/mt5-mac.svg
+    title: MT5 for Mac
+    subtitle: Download for MacOS
+  - icon: /icons/mt5/mt5-terminal.svg
+    title: MT5 WebTerminal
+    subtitle: Launch WebTrader

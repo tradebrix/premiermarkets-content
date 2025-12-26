@@ -1,0 +1,45 @@
+languageCode: en
+locale: en
+title: 'Frequently Asked '
+titleHighlight: Questions
+items:
+  - question: What is MetaTrader 5 (MT5)?
+    answer: >-
+      MetaTrader 5 (MT5) is a professional trading platform that Premier Markets
+      clients use to trade forex, commodities, indices, stocks and other
+      markets. It offers advanced charting, fast execution, and support for
+      automated trading.
+  - question: Can I trade on MT5 from my phone?
+    answer: >-
+      Yes. MT5 is available on iOS and Android devices, allowing you to open,
+      manage and close trades, analyze charts and access your Premier Markets
+      account on the go.
+  - question: How do I download MT5 with Premier Markets?
+    answer: >-
+      You can download MT5 directly from Premier Markets for desktop, web, and
+      mobile devices. Once installed, simply log in with your Premier Markets
+      credentials to start trading.
+  - question: What happens to my trades if I log out of MT5?
+    answer: >-
+      Your open trades remain active and protected by any set stop-loss or
+      take-profit orders. Only automated strategies (EAs) might stop running.
+  - question: What makes MT5 different from MT4?
+    answer: >-
+      MT5 supports more asset classes, more order types, additional timeframes
+      and enhanced charting. It also includes market depth and faster
+      processing, making it ideal for multi-asset trading.
+  - question: What can I trade on MT5?
+    answer: >-
+      With MT5 on Premier Markets, you can trade CFDs across multiple markets
+      including forex, commodities, indices, metals and stocks. MT5 supports
+      multi-asset trading, giving you access to a wide range of instruments from
+      one platform.
+  - question: Can I use Expert Advisors (EAs) on MT5?
+    answer: >-
+      Yes. MT5 supports automated trading using EAs and custom indicators. Tools
+      built for MT4 are not compatible and must be coded in MQL5 for MT5 use.
+  - question: ' How do I connect my Premier Markets account to MT5?'
+    answer: >-
+      Simply download MT5 and log in using your Premier Markets login
+      credentials. Open a live or demo trading account through Premier Markets,
+      fund it, and then select the appropriate MT5 server to start trading.

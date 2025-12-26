@@ -13,9 +13,9 @@ quickLinks:
   - title: Deposits and Withdrawals
     href: /trading/deposits-withdrawals
   - title: MT5
-    href: https://secure.premiermarkets.com/register
+    href: /mt5
   - title: ProTrader
-    href: https://secure.premiermarkets.com/register
+    href: /protrader
   - title: PAMM Investing
     href: https://secure.premiermarkets.com/register
 marketsTitle: Markets
