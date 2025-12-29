@@ -1,0 +1,35 @@
+languageCode: en
+locale: en
+cards:
+  - tag: Account funds
+    title: Segregated Client Accounts
+    description: >-
+      Your funds are held in separate, segregated bank accounts, completely
+      isolated from Premier Markets’ operational funds.
+    imageSrc: \images\securityOfFunds\security-feature1.png
+  - tag: Protection
+    title: Advanced Data Protection
+    description: >-
+      All sensitive information, including personal data and payment details, is
+      encrypted and safeguarded by multi-layer security systems.
+    imageSrc: \images\securityOfFunds\security-feature2.png
+  - tag: Security
+    title: Secure Transactions
+    description: >-
+      Every deposit and withdrawal is processed through verified payment service
+      providers with fraud prevention systems and real-time transaction
+      monitoring.
+    imageSrc: \images\securityOfFunds\security-feature3.png
+  - tag: Trust
+    title: Trusted Banking Partners
+    description: >-
+      We partner with top-tier, regulated banking institutions in reputable
+      jurisdictions, keeping your deposits and withdrawals processed securely
+      and efficiently.
+    imageSrc: \images\securityOfFunds\security-feature4.png
+  - tag: Reliable
+    title: Continuous System Monitoring
+    description: >-
+      Our servers are hosted in secure data centers with 24/7 system
+      supervision, ensuring constant uptime and uninterrupted trading access.
+    imageSrc: \images\securityOfFunds\security-feature5.png
