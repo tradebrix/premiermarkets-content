@@ -10,14 +10,14 @@ cards:
     subtitle: >-
       Follow your chosen manager’s open positions, history, and returns from a
       single, easy to read dashboard.
-    image: \images\pamm\pamm-card1.png
+    image: /images/pamm/pamm-card1.png
   - title: Real-time performance tracking
     subtitle: >-
       Follow your chosen manager’s open positions, history, and returns from a
       single, easy to read dashboard.
-    image: \images\pamm\pamm-card2.png
+    image: /images/pamm/pamm-card2.png
   - title: Full account visibility
     subtitle: >-
       Track balances, equity, profit and loss, and fee deductions directly in
       your Premier account, with downloadable statements for your records.
-    backgroundImage: \images\pamm\pamm-card3.png
+    backgroundImage: /images/pamm/pamm-card3.png
