@@ -1,0 +1,24 @@
+languageCode: en
+locale: en
+title: How PAMM works?
+titleHighlight: PAMM
+subtitle: Simple to start. Fully automated in the background.
+imageCaption: >-
+  The manager can trade on your behalf through the PAMM structure but cannot
+  deposit, withdraw, or transfer funds from your account.
+cards:
+  - tag: Step 1
+    title: Choose your manager
+    description: >-
+      Browse available money managers and review their history, style, and risk
+      profile.
+  - tag: Step 2
+    title: Allocate your investment
+    description: >-
+      Decide how much to allocate and link your trading account to the selected
+      manager. Your funds remain in your own account.
+  - tag: Step 3
+    title: Track and adjust
+    description: >-
+      Monitor performance in real time, add or reduce funds, or switch managers
+      according to your goals and risk tolerance.
