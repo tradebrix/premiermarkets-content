@@ -1,0 +1,31 @@
+languageCode: en
+locale: en
+bannerTitle: Step Into the Premier Trading Standard
+bannerRedTitle: Step Into
+bannerButtonText: Start Now
+bannerButtonLink: '#'
+faqTitle: 'Frequently Asked '
+faqTitleHighlight: Questions
+faqItems:
+  - question: How are my funds protected at Premier Markets?
+    answer: >-
+      Client funds are held in fully segregated accounts with top-tier banking
+      partners. This keeps your money separate from Premier Markets’ operating
+      capital and ensures it cannot be used for business purposes or risk-taking
+      activities.
+  - question: How does Premier Markets protect my personal and financial information?
+    answer: >-
+      Premier Markets uses advanced data encryption, secure server
+      infrastructure and strict privacy protocols to safeguard all personal and
+      financial information. Sensitive data such as deposits, withdrawals and
+      account activity is protected with industry-standard security technology.
+  - question: Where is my money held?
+    answer: >-
+      All client deposits are placed in segregated accounts with reputable,
+      globally recognized banks selected for their stability, security standards
+      and regulatory oversight.
+  - question: Are my transactions and payments secure?
+    answer: >-
+      Yes. Deposits, withdrawals and internal transfers are processed through
+      secure, encrypted channels. Premier Markets partners only with trusted and
+      regulated payment providers to ensure transaction safety.
