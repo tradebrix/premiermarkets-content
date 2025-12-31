@@ -47,9 +47,9 @@ companyLinks:
 supportTitle: Support
 supportLinks:
   - title: Contact Us
-    href: https://secure.premiermarkets.com/register
+    href: /contactus
   - title: Legal Documents
-    href: https://secure.premiermarkets.com/register
+    href: legal-documents
 paragraph1: >-
   CFDs are complex instruments and come with a high risk of losing money rapidly
   due to leverage. You should consider whether you understand how CFDs work and
