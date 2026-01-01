@@ -1,0 +1,22 @@
+languageCode: en
+locale: en
+title: Trading Redefined
+titleHighlight: Trading
+subtitle: Absolute control. Raw ECN is built for traders who run their own playbook.
+buttonText: Open ECN Account
+buttonLink: https://secure.premiermarkets.com/register
+cards:
+  - icon: /icons/ecn/ecn-icon1.svg
+    title: Scalping & Hedging Allowed
+    subtitle: No restrictions. Trade the way you want.
+  - icon: /icons/ecn/ecn-icon2.svg
+    title: Expert Advisor (EA) Friendly
+    subtitle: Run automated strategies with full stability.
+  - icon: /icons/ecn/ecn-icon3.svg
+    title: Low-Latency Infrastructure
+    subtitle: Co-located servers for lightning-fast execution.
+  - icon: /icons/ecn/ecn-icon4.svg
+    title: Precision-Focused Conditions
+    subtitle: >-
+      Tight spreads, deep liquidity and zero distractions, even during volatile
+      markets.
