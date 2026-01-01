@@ -1,0 +1,35 @@
+languageCode: en
+locale: en
+title: Frequently Asked Questions
+titleHighlight: Questions
+items:
+  - question: What is an ECN account?
+    answer: >-
+      An ECN account gives you direct access to top-tier liquidity providers
+      with no dealing desk intervention. Prices come straight from the market,
+      resulting in raw spreads and fast execution.
+  - question: How does ECN pricing work?
+    answer: >-
+      Your orders are matched directly with banks and liquidity providers at the
+      best available price. Premier Markets does not add markups, so you trade
+      raw spreads with a transparent commission per trade.
+  - question: Which platforms can I use with the ECN account?
+    answer: >-
+      You can trade using Premier WebTrader or MetaTrader 5 (MT5). Both
+      platforms support ECN pricing, fast execution and advanced tools for
+      manual, automated or high-speed trading.
+  - question: Who is the ECN account designed for?
+    answer: >-
+      The ECN account is ideal for active traders who need low spreads, fast
+      execution and precision, including scalpers, day traders and algorithmic
+      traders.
+  - question: Are there additional fees on Premier ECN accounts?
+    answer: >-
+      Yes. ECN accounts use raw spreads with a small commission per trade. Swaps
+      apply for positions held overnight, with all costs clearly displayed on
+      the platform.
+  - question: What can I trade with the Premier ECN account?
+    answer: >-
+      You can trade forex, commodities, indices and metals with
+      institutional-grade pricing and low-latency execution on both Premier
+      WebTrader and MT5.
