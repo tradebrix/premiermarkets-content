@@ -1,0 +1,11 @@
+cardSlug: skrill-en
+locale: en
+image: /images/deposit-withdraw/deposit-payment-skrill.png
+subtitle: Deposit or withdraw instantly with Skrill
+supportedCurrencies: USD
+processingTime: Instant
+buttonText: Deposit
+buttonLink: /sign-up
+logo: card
+featured: false
+displayOrder: 7
