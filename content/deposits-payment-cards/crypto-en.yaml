@@ -1,0 +1,11 @@
+cardSlug: crypto-en
+locale: en
+image: /images/deposit-withdraw/deposit-payment-crypto.png
+subtitle: Deposit or withdraw crypto instantly from your wallet.
+supportedCurrencies: BTC, USDT, USDC, + 30 more
+processingTime: Instant
+buttonText: Deposit
+buttonLink: /sign-up
+logo: card
+featured: false
+displayOrder: 6
