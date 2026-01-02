@@ -1,0 +1,11 @@
+cardSlug: wire-en
+locale: en
+image: /images/deposit-withdraw/deposit-payment-wite.png
+subtitle: Deposit or withdraw instantly with Wire Transfer.
+supportedCurrencies: EUR
+processingTime: 3-5 Working Days
+buttonText: Deposit
+buttonLink: /sign-up
+logo: card
+featured: false
+displayOrder: 5
