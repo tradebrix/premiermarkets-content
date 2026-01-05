@@ -1,0 +1,30 @@
+commodities:
+  - ALUMINIUM
+  - BRENT
+  - COCOA
+  - COFFEE
+  - NGAS
+indices:
+  - AUS200
+  - EU50
+  - SUI20
+  - UK100
+  - US30
+cryptocurrencies:
+  - BTCEUR
+  - BTCUSD
+  - DOGUSD
+  - ETHUSD
+  - XRPEUR
+shares:
+  - AIR.ES
+  - BMW.DE
+  - SU.FR
+  - AMD.US
+  - FDX.US
+etfs:
+  - EURAUD
+  - AUDUSD
+  - EURCAD
+  - USDRUB
+  - EURJPY
