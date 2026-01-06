@@ -1,0 +1,98 @@
+languageCode: en
+locale: en
+title: Trade metals with stability and strength
+redTitle: Trade metals
+subtitle: >-
+  Precious metals remain a trusted safe haven in volatile markets. Trade gold,
+  silver, and more with institutional liquidity, transparent pricing, and
+  precise execution.
+startLink: trading/metals
+spreads: Spreads from 0.2 Pips
+leverage: Leverage up to 1:1000
+support: 24/5 support
+background: /images/markets/markets-metals-bg.png
+titleQuestion: Why trade Metals with Premier Markets?
+bannerText: Experience the Premier standard in trading
+bannerRedText: Experience
+mostTradedTitle: Most Traded Metals
+mostTradedHighlight: Metals
+mostTradedSymbols:
+  - XAUUSD
+  - XPTUSD
+faqTitle: Frequently Asked Questions
+faqTitleHighlight: Questions
+faqItems:
+  - question: How are metals traded?
+    answer: >-
+      Metals can be traded in different forms depending on the market.
+
+      Gold and Silver are typically traded as spot instruments, meaning they
+      reflect current market prices for immediate settlement.
+
+      Other metals, such as copper, palladium and platinum, are often traded
+      through CFD futures, which allow traders to speculate on future pricing.
+  - question: Can you trade metals without owning the physical asset?
+    answer: >-
+      Yes. Traders can speculate on price movements digitally using instruments
+      such as CFDs, ETFs, or futures, which provide exposure to metal prices
+      without the need for physical ownership, storage, or insurance.
+  - question: Do metal CFD futures expire?
+    answer: >-
+      Yes. Metal CFD futures have scheduled expiration dates. When a contract
+      expires, any open position closes automatically. As expiration approaches,
+      the next contract cycle becomes available for trading.
+  - question: What are the symbols for spot gold and silver?
+    answer: |-
+      Spot metals are quoted against major currencies. Common examples include:
+      Gold (XAU): XAU/USD, XAU/EUR, XAU/GBP, XAU/CHF, XAU/JPY, XAU/AUD
+      Silver (XAG): XAG/USD
+  - question: Is there an expiration date on spot gold and silver?
+    answer: >-
+      No. Spot metals do not expire. As long as margin requirements are met,
+      positions remain open until the trader chooses to close them. 
+  - question: What are the trading hours for metals?
+    answer: >-
+      Metals markets are generally open 23 hours a day, 5 days a week, with a
+      short daily maintenance break. Trading schedules may also follow global
+      exchange holiday closures.
+  - question: Can I hold metal positions over the weekend and holidays?
+    answer: >-
+      Yes, but rollover charges apply, similar to forex trades, when holding
+      positions after market close or across non-trading days.
+  - question: What metals can I trade with Premier Markets?
+    answer: |-
+      Traders can access a range of precious and industrial metals, including:
+      Gold (XAU)
+      Silver (XAG)
+      Platinum
+      Palladium
+      Copper
+  - question: How is margin calculated for metals?
+    answer: >-
+      Margin requirements differ based on the specific metal, market conditions
+      and the trading instrument selected. Traders should always check the live
+      margin rates listed on the platform before opening a position. You can
+      always refer to our trading calculators to better plan your trades.
+  - question: What affects the price of metals?
+    answer: >-
+      Metal prices are influenced by supply and demand dynamics, mining output,
+      geopolitical developments and macroeconomic factors such as:
+
+      US dollar movements (most metals are priced in USD)
+
+      Central bank policies and interest rates
+
+      Market sentiment (safe-haven demand during uncertainty)
+
+      Economic data releases and global risk trends
+  - question: Which metals are best to trade?
+    answer: >-
+      Gold and silver are the most commonly traded due to their high liquidity
+      and reputation as safe-haven assets. Silver tends to show greater price
+      swings than gold, which can appeal to traders seeking volatility.
+  - question: Do metals protect against inflation?
+    answer: >-
+      Historically, gold and silver have been used as hedges against inflation,
+      as they are often viewed as stores of value when purchasing power
+      declines. However, their performance can still fluctuate based on market
+      conditions.
