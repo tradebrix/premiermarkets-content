@@ -17,6 +17,39 @@ mostTradedTitle: Most Traded Shares
 mostTradedHighlight: Shares
 mostTradedSymbols:
   - AAPL.US
+  - NVDA.US
+  - AMZN.US
+  - MSFT.US
+  - GOOGL.US
+  - FB.US
 faqTitle: Frequently Asked Questions
 faqTitleHighlight: Questions
-faqItems: []
+faqItems:
+  - question: What is share trading with Premier Markets?
+    answer: >-
+      Share trading lets you speculate on the price movements of publicly listed
+      companies. With Premier Markets, you trade share CFDs, meaning you can
+      trade rising or falling prices without owning the underlying shares or
+      taking ownership of the company.
+  - question: How do I trade shares?
+    answer: >-
+      Open a Premier Markets trading account, choose the shares you want to
+      trade, research the company and its sector, and then enter your position. 
+  - question: What are the best shares to trade?
+    answer: >-
+      It depends on your trading style and goals. Some traders focus on large,
+      highly traded companies such as Apple, Tesla, Microsoft, Amazon, Alphabet
+      or Meta, while others look for opportunities in growth stocks or more
+      volatile markets. Choose shares that match your risk tolerance and
+      strategy.
+  - question: What’s the difference between investing and CFD trading?
+    answer: >-
+      Investing involves buying and holding actual shares for long-term growth.
+      CFD trading focuses on short- to medium-term price movements without
+      taking ownership. Share CFDs offer leverage and the ability to trade both
+      rising and falling markets but also carry higher risk.
+  - question: What are the costs of trading share CFDs?
+    answer: >-
+      When trading share CFDs, your main costs include the spread and any
+      overnight financing charges for positions held after the market closes.
+      There is no stamp duty since you are not buying the underlying share.
