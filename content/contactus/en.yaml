@@ -1,0 +1,22 @@
+languageCode: en
+locale: en
+title: Need help? We're always ready to help you
+titleHighlight: help
+subtitle: Share your question and choose how you'd like us to reach you.
+firstNameLabel: First name
+firstNameHint: First name
+lastNameLabel: Last name
+lastNameHint: Last name
+emailLabel: Email
+emailHint: Enter your email
+phoneLabel: Phone number
+messageLabel: Message
+messageHint: Leave us a message...
+contactChoicesLabel: Preferred method of contact
+phoneChoiceLabel: Call back
+whatsappChoiceLabel: WhatsApp
+emailChoiceLabel: Email
+privacyText: You agree to our friendly Privacy Policy.
+privacyHighlight: Privacy Policy
+privacyLink: /
+submitButtonText: Send Message

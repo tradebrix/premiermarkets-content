@@ -1,0 +1,31 @@
+languageCode: en
+locale: en
+title: Why choose a PAMM account?
+titleHighlight: PAMM
+subtitle: >-
+  PAMM accounts let you link your capital to a professional money manager and
+  pool funds with other investors for potentially larger, more efficiently
+  managed trades. Premier Markets provides the PAMM infrastructure and investor
+  onboarding, while the Fund Manager retains full control over trading decisions
+  and strategy execution.
+cards:
+  - icon: \icons\pamm\icon-profit.svg
+    title: Instant profit allocation
+    subtitle: >-
+      Profits and losses from the manager’s trades are reflected in your account
+      automatically and proportionally.
+  - icon: \icons\pamm\icon-setup.svg
+    title: No technical setup
+    subtitle: >-
+      There is no need to install tools or copy trades manually. The PAMM system
+      handles execution and allocation.
+  - icon: \icons\pamm\icon-trader.svg
+    title: Suitable for new and active traders
+    subtitle: >-
+      Use PAMM as a hands off way to access the markets or as a complement to
+      your own trading.
+  - icon: \icons\pamm\icon-structure.svg
+    title: Clear fee structure
+    subtitle: >-
+      Choose from a variety of traders and strategies to spread risk and enhance
+      potential returns.

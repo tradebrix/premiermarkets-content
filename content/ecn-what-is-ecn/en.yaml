@@ -1,0 +1,17 @@
+languageCode: en
+locale: en
+title: What Is an ECN Account?
+titleHighlight: ECN Account?
+subtitle: >-
+  An ECN (Electronic Communication Network) account connects you directly to
+  top-tier liquidity providers, giving you access to raw spreads with no
+  markups. While Standard accounts build fees into the spread, ECN accounts
+  charge a small commission and provide raw market pricing, making them the
+  preferred choice for traders seeking tighter spreads and faster execution.
+buttonText: Open ECN Account
+buttonLink: /sign-up
+traderLabel: Trader
+bankLabel: Banks
+brokerLabel: ECN Broker
+companyLabel: Companies
+providerLabel: Liquidity Providers

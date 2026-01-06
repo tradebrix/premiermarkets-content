@@ -1,0 +1,16 @@
+languageCode: en
+locale: en
+title: Legal documents
+titleHighlight: Legal
+subtitle: >-
+  View our legal documentation here. For any queries, contact
+  support@premiermarkets.com
+subtitleHighlight: support@premiermarkets.com
+subtitleLink: mailto:support@premiermarkets.com
+cards:
+  - title: Client Agreement
+  - title: Risk Disclosure Policy
+  - title: 'Privacy Policy '
+  - title: 'Complaints Policy '
+  - title: Fair Usage Policy
+  - title: Cookies Policy

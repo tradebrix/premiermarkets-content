@@ -1,0 +1,11 @@
+cardSlug: googleapple-en
+locale: en
+image: /images/deposit-withdraw/deposit-payment-googleapple.png
+subtitle: Deposit & withdraw instantly using your GooglePay or ApplePay.
+supportedCurrencies: USD, EUR, GBP
+processingTime: Instant
+buttonText: Deposit
+buttonLink: /sign-up
+logo: card
+featured: false
+displayOrder: 2

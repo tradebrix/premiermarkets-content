@@ -1,0 +1,11 @@
+cardSlug: pix-en
+locale: en
+image: /images/deposit-withdraw/deposit-payment-pix.png
+subtitle: Deposit and withdraw securely with Pix.
+supportedCurrencies: BRL
+processingTime: Instant
+buttonText: Deposit
+buttonLink: /sign-up
+logo: card
+featured: false
+displayOrder: 8

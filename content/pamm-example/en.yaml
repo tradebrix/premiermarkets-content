@@ -1,0 +1,48 @@
+languageCode: en
+locale: en
+title: A simple PAMM example
+titleHighlight: PAMM
+subtitle: >-
+  This example shows how profits and performance fees are shared between
+  investors and a money manager.
+leftCard:
+  tag: Investor A
+  currency: USD
+  value: 50,000
+centerCard:
+  tag: Investor B
+  currency: USD
+  value: 30,000
+rightCard:
+  tag: Investor C
+  currency: USD
+  value: 20,000
+cardsCaption: >-
+  Over the period the manager generates a 10% profit on the pool. Total profit:
+  10,000 USD
+cardsCaptionBoldParts:
+  - 10,000 USD
+containerText: >-
+  The agreed performance fee is 20 percent of the profit. Performance fee to the
+  manager: 2,000 USD Net profit to investors: 8,000 USD
+containerBoldParts:
+  - 2,000 USD
+  - 8,000 USD
+outsideText: 'Net profit is then allocated according to each investor''s share of the pool:'
+outsideBoldParts: []
+allocationRows:
+  - tag: Investor A
+    text: (50 percent of pool) receives 4,000 USD
+    boldPart: 4,000 USD
+    containerColor: '#383838'
+  - tag: Investor B
+    text: (30 percent of pool) receives 2,400 USD
+    boldPart: 2,400 USD
+    containerColor: '#B89146'
+  - tag: Investor C
+    text: (20 percent of pool) receives 1,600 USD
+    boldPart: 1,600 USD
+    containerColor: '#D5252C'
+finalNote: >-
+  Each investor's account balance is updated automatically and full details are
+  visible in the account statement.

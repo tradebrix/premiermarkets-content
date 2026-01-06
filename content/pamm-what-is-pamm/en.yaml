@@ -1,0 +1,18 @@
+languageCode: en
+locale: en
+title: What is a PAMM Account?
+titleHighlight: PAMM
+subtitle: >-
+  A PAMM account lets you allocate funds to a professional money manager instead
+  of trading by yourself. You choose a manager and decide how much to invest.
+  Whenever the manager trades, the PAMM system applies the same strategy to your
+  account in proportion to your allocation and updates your balance
+  automatically.
+bullets:
+  - text: You choose a money manager and decide how much to allocate.
+  - text: >-
+      The PAMM system allocates each trade, profit, and loss to your account
+      based on your percentage of the pool.
+  - text: >-
+      The manager trades one master account using their own strategy and risk
+      approach.

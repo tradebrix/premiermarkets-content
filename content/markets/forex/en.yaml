@@ -1,0 +1,21 @@
+languageCode: en
+locale: en
+title: Trade the world's largest financial market
+redTitle: financial market
+subtitle: >-
+  Experience institutional-grade pricing, deep liquidity, and precision
+  execution across 50+ global currency pairs.
+startLink: trading/forex
+spreads: Spreads from 0.0 Pips
+leverage: Leverage up to 1:1000
+support: 24/5 support
+background: /images/markets/markets-forex-bg.png
+titleQuestion: Why trade forex with Premier Markets?
+bannerText: Experience the Premier standard in trading
+bannerRedText: Experience
+mostTradedTitle: Most Traded Forex Pairs
+mostTradedHighlight: Forex Pairs
+mostTradedSymbols: []
+faqTitle: Frequently Asked Questions
+faqTitleHighlight: Questions
+faqItems: []

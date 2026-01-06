@@ -1,0 +1,20 @@
+languageCode: en
+locale: en
+title: Direct Access. No Markups.
+titleHighlight: Direct Access.
+subtitle: >-
+  Our ECN account gives you direct pricing from top-tier liquidity providers. No
+  interventions or markups. It's just you and the market.
+cards:
+  - title: Direct Market Access
+    subtitle: Pure ECN connectivity with top-tier liquidity
+  - title: Conflict-Free Execution
+    subtitle: We never trade against you. Your gains are yours
+  - title: Live Market Data
+    subtitle: Stay in sync with real-time pricing and trade conditions.
+  - title: Spreads from 0.0 Pips
+    subtitle: Ultra-tight spreads with lightning-fast execution.
+  - title: 24/5 Access
+    subtitle: Trade continuously across global sessions.
+  - title: Low Trading Costs
+    subtitle: Competitive commissions for high-efficiency trading.

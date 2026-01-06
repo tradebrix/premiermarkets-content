@@ -1,0 +1,22 @@
+languageCode: en
+locale: en
+title: Invest in the world's leading companies
+redTitle: world's
+subtitle: >-
+  Access the world's top-performing companies.Trade global shares with Premier
+  Markets.
+startLink: trading/shares
+spreads: Spreads from 1.1 Pips
+leverage: Leverage up to 1:1000
+support: 24/5 support
+background: /images/markets/markets-shares.png
+titleQuestion: Why trade Shares with Premier Markets?
+bannerText: Experience the Premier standard in trading
+bannerRedText: Experience
+mostTradedTitle: Most Traded Shares
+mostTradedHighlight: Shares
+mostTradedSymbols:
+  - AAPL.US
+faqTitle: Frequently Asked Questions
+faqTitleHighlight: Questions
+faqItems: []

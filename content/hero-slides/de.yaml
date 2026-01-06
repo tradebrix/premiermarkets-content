@@ -1,0 +1,33 @@
+languageCode: de
+locale: de
+title: Handeln Sie CFDs mit Premier Markets
+subtitle: >-
+  Erschließen Sie sich globale Märkte mit fortschrittlichen Handelstools,
+  wettbewerbsfähigen Spreads und institutioneller Ausführungsqualität.
+button1Text: Beginnen Sie mit dem Handel
+button1Link: /sign-up
+button2Text: Try Demo Account
+button2Link: /demo
+feature1Icon: /icons/markets/leading/icon-deposit.svg
+feature1Text: Zero Deposit Fees
+feature2Icon: /icons/markets/leading/icon-speed.svg
+feature2Text: Ultra-Tight Spreads
+feature3Icon: /icons/markets/leading/icon-secure.svg
+feature3Text: Secure Funds
+image: /images/leading/leading-hero-slide1.png
+slide2Title: Double your trading capital
+slide2TitleHighlight: Double
+slide2Subtitle: >-
+  A limited-time 100% deposit bonus designed to enhance your trading capacity
+  without compromising control.
+slide2SubtitleHighlight: 100% deposit bonus
+slide2ButtonText: Claim Now
+slide2ButtonLink: /sign-up
+slide2Image: /images/leading/leading-hero-slide2.png
+slide3Title: Gold's run breaking records and it's not slowing down.
+slide3Subtitle: >-
+  Don't just watch the rally be part of it. Experience seamless Gold trading
+  with Premier's trusted platform.
+slide3ButtonText: Trade Gold
+slide3ButtonLink: /sign-up
+slide3Image: /images/leading/leading-hero-slide3.png
