@@ -1,11 +1,13 @@
 cardSlug: card-en
 locale: en
 name: card
+image: /images/deposit-withdraw/deposit-payment-cards.png
+subtitle: Deposit or withdraw instantly with credit or debit card.
 description: Deposit or withdraw instantly with credit or debit card.
-supportedCurrencies: USD, EUR, GBP
+supportedCurrencies: USD, GBP, EUR
 processingTime: Instant
-logo: card
-featured: false
 buttonText: Deposit
 buttonLink: https://secure.premiermarkets.com/login
+logo: card
+featured: false
 displayOrder: 1

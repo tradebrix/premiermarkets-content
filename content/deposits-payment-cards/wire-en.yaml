@@ -1,11 +1,11 @@
 cardSlug: wire-en
 locale: en
-name: wire
-description: Secure transactions via Tier 1 banking institutions.
-supportedCurrencies: USD, EUR, GBP, CHF
-processingTime: Instant
-logo: wire
-featured: false
+image: /images/deposit-withdraw/deposit-payment-wite.png
+subtitle: Deposit or withdraw instantly with Wire Transfer.
+supportedCurrencies: EUR
+processingTime: 3-5 Working Days
 buttonText: Deposit
-buttonLink: https://secure.premiermarkets.com/login
+buttonLink: /sign-up
+logo: card
+featured: false
 displayOrder: 5

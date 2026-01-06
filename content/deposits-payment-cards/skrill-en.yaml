@@ -1,11 +1,11 @@
 cardSlug: skrill-en
 locale: en
-name: skrill
-description: Deposit or withdraw instantly with Skrill.
+image: /images/deposit-withdraw/deposit-payment-skrill.png
+subtitle: Deposit or withdraw instantly with Skrill
 supportedCurrencies: USD
 processingTime: Instant
-logo: skrill
-featured: false
 buttonText: Deposit
-buttonLink: https://secure.premiermarkets.com/login
-displayOrder: 2
+buttonLink: /sign-up
+logo: card
+featured: false
+displayOrder: 7

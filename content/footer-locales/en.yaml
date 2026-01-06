@@ -11,13 +11,13 @@ quickLinks:
   - title: Accounts
     href: /trading/accounts
   - title: Deposits and Withdrawals
-    href: /trading/deposits-withdrawals
+    href: /deposit-withdraw
   - title: MT5
     href: /mt5
   - title: ProTrader
     href: /protrader
   - title: PAMM Investing
-    href: https://secure.premiermarkets.com/register
+    href: /pamm
 marketsTitle: Markets
 marketsLinks:
   - title: Forex
@@ -47,9 +47,9 @@ companyLinks:
 supportTitle: Support
 supportLinks:
   - title: Contact Us
-    href: https://secure.premiermarkets.com/register
+    href: /contactus
   - title: Legal Documents
-    href: https://secure.premiermarkets.com/register
+    href: /legal-documents
 paragraph1: >-
   CFDs are complex instruments and come with a high risk of losing money rapidly
   due to leverage. You should consider whether you understand how CFDs work and
