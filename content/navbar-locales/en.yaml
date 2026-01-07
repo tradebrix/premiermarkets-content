@@ -1,0 +1,86 @@
+languageCode: en
+locale: en
+loginButtonText: Login
+registerButtonText: Register
+loginUrl: https://secure.premiermarkets.com/login
+registerUrl: https://secure.premiermarkets.com/register
+sections:
+  - title: Trading
+    subsections:
+      - title: Strat Trading
+        links:
+          - icon: /icons/navbar/S1SU1E1.svg
+            title: Why trade with premier?
+            href: /trading/why-trade-with-premier
+          - icon: /icons/navbar/S1SU1E2.svg
+            title: Account Types
+            href: /trading/accounts
+          - icon: /icons/navbar/S1SU1E3.svg
+            title: Premier ECN
+            href: /ecn
+          - icon: /icons/navbar/S1SU1E4.svg
+            title: Deposits and Withdrawals
+            href: /deposit-withdraw
+      - title: Platforms
+        links:
+          - icon: /icons/navbar/S1SU2E1.svg
+            title: Premier ProTrader
+            href: /protrader
+          - icon: /icons/navbar/S1SU2E2.svg
+            title: MetaTrader 5
+            href: /mt5
+          - icon: icons/navbar/S1SU2E3.svg
+            title: PAMM
+            href: /pamm
+      - title: Markets
+        links:
+          - icon: /icons/navbar/S1SU3E1.svg
+            title: Forex
+            href: /markets/forex
+          - icon: /icons/navbar/S1SU3E2.svg
+            title: Metals
+            href: /markets/Metals
+          - icon: /icons/navbar/S1SU3E3.svg
+            title: Shares
+            href: /markets/shares
+          - icon: /icons/navbar/S1SU3E4.svg
+            title: Commodities
+            href: /markets/commodities
+          - icon: /icons/navbar/S1SU3E5.svg
+            title: Indices
+            href: markets/indices
+          - icon: /icons/navbar/S1SU3E6.svg
+            title: Crypto Assets
+            href: markets/crypto
+  - title: Discover
+    subsections:
+      - title: Trading Tools
+        links:
+          - icon: /icons/navbar/S2SU1E1.svg
+            title: Economic Calendar
+            href: /eco-calendar
+          - icon: /icons/navbar/S2SU1E2.svg
+            title: Trading Calculator
+            href: /trading-calculator
+  - title: Promotions
+    subsections:
+      - links:
+          - icon: /icons/navbar/S3SU1E1.svg
+            title: Premier Club
+  - title: Company
+    subsections:
+      - links:
+          - icon: /icons/navbar/S4SU1E1.svg
+            title: About Us
+            href: /about
+          - icon: /icons/navbar/S4SU1E2.svg
+            title: Security of Funds
+            href: /security-of-funds
+          - icon: /icons/navbar/S4SU1E3.svg
+            title: Careers
+            href: /careers
+          - icon: /icons/navbar/S4SU1E4.svg
+            title: Contact Us
+            href: /contactus
+partnerships:
+  title: Partnerships
