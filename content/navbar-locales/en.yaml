@@ -7,7 +7,7 @@ registerUrl: https://secure.premiermarkets.com/register
 sections:
   - title: Trading
     subsections:
-      - title: Strat Trading
+      - title: Start Trading
         links:
           - icon: /icons/navbar/icon-S1SU1E1.svg
             title: Why trade with premier?
@@ -29,7 +29,7 @@ sections:
           - icon: /icons/navbar/icon-S1SU2E2.svg
             title: MetaTrader 5
             href: /mt5
-          - icon: icons/navbar/icon-S1SU2E3.svg
+          - icon: /icons/navbar/icon-S1SU2E3.svg
             title: PAMM
             href: /pamm
       - title: Markets
