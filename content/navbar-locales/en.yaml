@@ -58,15 +58,16 @@ sections:
         links:
           - icon: /icons/navbar/icon-S2SU1E1.svg
             title: Economic Calendar
-            href: /eco-calendar
+            href: https://secure.premiermarkets.com/register
           - icon: /icons/navbar/icon-S2SU1E2.svg
             title: Trading Calculator
-            href: /trading-calculator
+            href: https://secure.premiermarkets.com/register
   - title: Promotions
     subsections:
       - links:
           - icon: /icons/navbar/icon-S3SU1E1.svg
             title: Premier Club
+            href: https://secure.premiermarkets.com/register
   - title: Company
     subsections:
       - links:
