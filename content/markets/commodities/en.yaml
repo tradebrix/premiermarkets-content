@@ -1,0 +1,71 @@
+languageCode: en
+locale: en
+title: Capture opportunities in global commodities
+redTitle: opportunities
+subtitle: Access oil, gas, and agricultural commodities with competitive pricing.
+startLink: trading/commodities
+spreads: Spreads from 1.1 Pips
+leverage: Leverage up to 1:500
+support: 24/5 support
+background: /images/markets/markets-commodities.png
+titleQuestion: Why trade Commodities with Premier Markets?
+bannerText: Experience the Premier standard in trading
+bannerRedText: Experience
+mostTradedTitle: Most Traded Commodities
+mostTradedHighlight: Commodities
+mostTradedSymbols:
+  - WTI
+  - COCOA
+  - BRENT
+  - SOYBEAN
+  - COFFEE
+faqTitle: Frequently Asked Questions
+faqTitleHighlight: Questions
+faqItems:
+  - question: What is commodities trading?
+    answer: >-
+      Commodities are standardized natural materials used in energy, food and
+      industrial production. Trading them lets you speculate on price movements
+      of assets like metals, oil, wheat or sugar. With Premier Markets, you
+      trade these prices digitally without owning the physical asset.
+  - question: What are the benefits of trading commodities?
+    answer: >-
+      Commodities add diversification and can help hedge inflation, as assets
+      like gold and oil often retain value during uncertainty. Their prices move
+      with global supply and demand, creating liquid, transparent markets.
+      Traders can find opportunities across sectors influenced by geopolitics,
+      weather, economic trends and consumption shifts.
+  - question: What are commodity CFDs?
+    answer: >-
+      A commodity CFD lets you trade price movements without owning the
+      underlying asset. Profit or loss is based on the difference between
+      opening and closing prices.
+  - question: When do commodity CFD orders expire?
+    answer: >-
+      Futures CFDs expire according to the contract month and close
+      automatically. Cash CFDs do not expire and roll over with a price
+      adjustment.
+  - question: What is the margin for commodities trading?
+    answer: >-
+      Margin depends on the commodity and market conditions. Traders should
+      check live margin rates on the platform and use Premier Markets
+      calculators for planning.
+  - question: What market changes may affect oil trades?
+    answer: >-
+      Oil prices react strongly to supply levels, OPEC decisions, geopolitical
+      events, inventory data, energy demand and major economic announcements.
+  - question: What are the most popular commodities to trade?
+    answer: >-
+      Commonly traded markets include:
+
+      Oil & Natural Gas: driven by supply, demand and geopolitics
+
+      Gold & Silver: safe-haven and inflation-hedge metals
+
+      Corn, Wheat, Coffee, Sugar: affected by weather and harvest cycles
+
+      Copper & Platinum: tied to manufacturing and economic growth
+
+
+      These markets are favored for their liquidity, clear pricing and
+      sensitivity to global trends.

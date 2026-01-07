@@ -1,0 +1,70 @@
+languageCode: en
+locale: en
+title: Capture entire market movements in a single position
+redTitle: Capture
+subtitle: >-
+  Trade leading indices such as the S&P 500, NASDAQ, FTSE, and DAX with Premier
+  Markets
+startLink: trading/indices
+spreads: Spreads from 0.5 Pips
+leverage: Leverage up to 1:200
+support: 24/5 support
+background: /images/markets/markets-indices.png
+titleQuestion: Why trade indices with Premier Markets?
+bannerText: Experience the Premier standard in trading
+bannerRedText: Experience
+mostTradedTitle: Most Traded Indices
+mostTradedHighlight: Indices
+mostTradedSymbols:
+  - US100
+  - US30
+  - UK100
+  - ITA40
+  - GER40
+  - JAP225
+faqTitle: Frequently Asked Questions
+faqTitleHighlight: Questions
+faqItems:
+  - question: What are indices in trading?
+    answer: >-
+      Indices measure the price movement of a selected group of assets,
+      typically stocks, but they can also include bonds or commodities. They
+      provide an overall view of how a market, sector or economy is performing,
+      making them a key benchmark for traders.
+  - question: How are indices calculated and weighted?
+    answer: >-
+      Indices are generally constructed using one of the following approaches:
+
+      Market-capitalization weighted:  Companies with higher market value have a
+      larger effect on the index movement. Examples: S&P 500, FTSE 100.
+
+      Price-weighted:  Stocks with a higher share price carry more influence
+      regardless of company size. Examples: Dow Jones Industrial Average, Nikkei
+      225.
+  - question: Can you trade an index directly?
+    answer: >-
+      No. Index values cannot be bought or sold directly because they are only
+      measurements. Traders gain exposure through financial instruments such as
+      CFDs, futures, ETFs or index funds, which replicate or speculate on index
+      price movements. 
+  - question: What influences index prices?
+    answer: |-
+      Index prices react to broad economic and market conditions, including:
+      Economic data and central bank decisions
+      Earnings results from index-listed companies
+      Interest rate changes and geopolitical events
+      Adjustments to the index’s constituent list
+  - question: What are some of the most traded indices?
+    answer: |-
+      Widely traded global indices include:
+      S&P 500 (US 500)
+      Dow Jones (Wall Street)
+      NASDAQ 100 (US Tech 100)
+      FTSE 100 (UK 100)
+      DAX 40 (Germany 40)
+      Nikkei 225 (Japan 225)
+  - question: When are indices traded?
+    answer: >-
+      Trading hours depend on the exchange of each index. Through products like
+      CFDs and futures, many indices are available nearly 24 hours, five days a
+      week.

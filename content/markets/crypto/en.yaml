@@ -1,0 +1,75 @@
+languageCode: en
+locale: en
+title: Trade innovation and the future of digital assets
+redTitle: innovation
+subtitle: >-
+  Cryptocurrencies are reshaping global finance; offering volatility,
+  innovation, and opportunity in equal measure.
+startLink: trading/crypto
+spreads: Spreads from 1.5 Pips
+leverage: Leverage up to 1:10
+support: 24/5 support
+background: /images/markets/markets-crypto.png
+titleQuestion: Why trade crypto with Premier Markets?
+bannerText: Experience the Premier standard in trading
+bannerRedText: Experience
+mostTradedTitle: Most Traded Crypto Assets
+mostTradedHighlight: Crypto Assets
+mostTradedSymbols:
+  - BTCUSD
+  - ETHUSD
+  - XRPUSD
+  - SOLUSD
+  - ADAUSD
+faqTitle: Frequently Asked Questions
+faqTitleHighlight: Questions
+faqItems:
+  - question: What are cryptocurrencies?
+    answer: >-
+      Cryptocurrencies are digital currencies that operate without government or
+      central bank control. They use encryption technology to create, secure and
+      transfer units of currency. Stored in digital wallets, cryptocurrencies
+      enable peer-to-peer transactions and are accepted by a growing number of
+      online merchants.
+  - question: >-
+      Do I need a virtual wallet to trade cryptocurrency CFDs with Premier
+      Markets?
+    answer: >-
+      No. When trading crypto CFDs, you are speculating on price movements
+      rather than owning the underlying asset, so there is no need for a digital
+      wallet, private keys or physical storage.
+  - question: Can I trade cryptocurrency CFDs on Premier Markets platforms?
+    answer: >-
+      Cryptocurrency CFDs are available on our supported platforms, MT5 and
+      Premier WebTrader, that provide crypto trading access. These are separate
+      from traditional wallet-based exchanges because they allow traders to go
+      long or short without directly holding the coins. 
+  - question: Are cryptocurrencies CFDs traded with leverage?
+    answer: >-
+      Yes. Cryptocurrency CFDs are leveraged products, which means traders only
+      need to place a margin deposit to open a larger position. While leverage
+      can increase potential returns, it also multiplies losses and should be
+      used with caution. 
+  - question: Can I short cryptocurrency CFDs with Premier Markets?
+    answer: >-
+      Yes. With crypto CFDs, you can trade both directions. You can go long if
+      you believe prices will rise or short if you believe they will fall,
+      giving you the ability to trade in both bullish and bearish market
+      conditions.
+  - question: How do cryptocurrency CFDs work?
+    answer: >-
+      When trading crypto CFDs, you enter into a contract based on the price
+      movement of a cryptocurrency between the time you open and close the
+      position.
+
+      No Ownership: You don’t buy or store the actual coins.
+
+      Leverage: Only a fraction of the total trade value is required.
+
+      Bidirectional Trading: You can trade rising or falling prices.
+  - question: What are the most traded cryptocurrencies?
+    answer: |-
+      The most actively traded cryptocurrencies include:
+      Bitcoin (BTC)
+      Ethereum (ETH)
+      Ripple (XRP)

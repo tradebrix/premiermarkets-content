@@ -15,7 +15,93 @@ bannerText: Experience the Premier standard in trading
 bannerRedText: Experience
 mostTradedTitle: Most Traded Forex Pairs
 mostTradedHighlight: Forex Pairs
-mostTradedSymbols: []
+mostTradedSymbols:
+  - EURUSD
+  - GBPUSD
+  - USDJPY
+  - GBPJPY
+  - USDCAD
+  - AUDUSD
 faqTitle: Frequently Asked Questions
 faqTitleHighlight: Questions
-faqItems: []
+faqItems:
+  - question: Is forex trading an option for beginners?
+    answer: >-
+      Forex can be suitable for beginners because it’s accessible online, allows
+      small starting amounts and lets traders use lot sizes as low as 0.01. With
+      leverage, traders can control larger positions using limited capital,
+      though this also increases risk.
+
+
+      Premier Markets also provides educational resources that can help
+      beginners learn about trading fundamentals, technical analysis as well as
+      the tools and indicators used in forex trading. 
+
+
+      Beginners should always trade responsibly and do their own research, as
+      forex trading carries inherent risk, especially when trading leveraged
+      products.
+  - question: ' How do I start trading forex as a beginner?'
+    answer: >-
+      Choose a reliable broker: As a beginner, it’s important to evaluate
+      different brokers by reviewing their account types, platform features and
+      overall trading conditions.
+
+      Open a demo account: Practice trading forex on the demo account offered. 
+      Premier Markets offers demo accounts for its clients to test their
+      strategies and gain experience in a virtual environment.
+
+      Learn the basics: Take advantage of online courses, webinars and
+      educational articles.
+
+      Open and fund a live account: Once you feel confident enough to trade the
+      live markets, open a live account with the broker and fund your account to
+      start trading forex.
+  - question: Can I start forex trading with a small amount like?
+    answer: >-
+      Yes, it is possible for you to start trading forex with as little as USD
+      $250. Many brokers like Premier Markets offer trading accounts that allow
+      traders to start with a small initial capital.
+
+      With a Premier Markets live account, you have the option to begin trading
+      with a minimum deposit suitable for small traders. 
+  - question: What are the pros of forex trading?
+    answer: |-
+      Forex trading offers some unique advantages:
+      - 24-hour market
+      - High liquidity
+      - Low trade costs
+      - Leverage
+  - question: What is leverage in forex trading and how does it work?
+    answer: >-
+      Leverage is a tool that allows traders to control larger positions using a
+      smaller amount of capital. This is usually expressed as a ratio, such as
+      50:1, where the first number represents the amount you can control and the
+      second number represents the capital you have.
+
+      Example:
+
+      If you have $100 and use a leverage of 50:1, your $100 investment can
+      control a $5,000 position. This lets you take advantage of larger price
+      movements than what your initial capital would normally allow.
+
+      However, leverage magnifies both profits and losses. Traders must use it
+      responsibly and understand the risks involved.
+  - question: Which is better for beginners? Forex or Stocks?
+    answer: >-
+      Both have advantages. Forex offers liquidity, 24-hour access, and low
+      entry costs. Stocks let you trade global companies.
+
+      Premier Markets provides trading on both, with competitive spreads and
+      educational tools.
+  - question: ' When not to trade forex?'
+    answer: >-
+      Avoid trading forex during:
+
+      Low-liquidity sessions, such as weekends or major public holidays
+
+      High-impact news and events, where price movements can become highly
+      unpredictable
+
+      When you are unprepared or feel uncertain about market conditions. Always
+      trade with a plan.
