@@ -1,0 +1,27 @@
+languageCode: en
+locale: en
+title: Our Markets
+subtitle: >-
+  Stay informed with the data that matters, on 17,000+ markets. Get the latest
+  news, trader sentiment, spreads, price action and much more.
+highlightedText: 17,000+ markets
+tabMostTraded: Most Traded
+tabForex: Forex
+tabCommodities: Commodities
+tabIndices: Indices
+tabCryptocurrencies: Cryptocurrencies
+tabShares: Shares
+labelBuy: Buy
+labelSell: Sell
+labelBuyers: Buyers
+labelSellers: Sellers
+labelHigh: High
+labelLow: Low
+browseButtonText: Browse all markets
+browseButtonLink: /markets
+buyButtonLink: https://secure.premiermarkets.com/login
+sellButtonLink: https://secure.premiermarkets.com/login
+disclaimerText: >-
+  Market data is delayed and may differ from real-time conditions. Should not be
+  used for trading or investment decisions.
+performanceDisclaimerText: Past performance is not a reliable indicator of future results
