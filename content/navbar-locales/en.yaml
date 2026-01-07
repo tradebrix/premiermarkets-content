@@ -48,10 +48,10 @@ sections:
             href: /markets/commodities
           - icon: /icons/navbar/icon-S1SU3E5.svg
             title: Indices
-            href: markets/indices
+            href: /markets/indices
           - icon: /icons/navbar/icon-S1SU3E6.svg
             title: Crypto Assets
-            href: markets/crypto
+            href: /markets/crypto
   - title: Discover
     subsections:
       - title: Trading Tools
