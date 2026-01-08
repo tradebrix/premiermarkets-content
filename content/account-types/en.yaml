@@ -1,0 +1,44 @@
+languageCode: en
+locale: en
+cards:
+  - slug: standard
+    accountType: standard
+    name: Standard Account
+    description: "Open our most popular account to get\_bonuses that boost your trading power and reduce the risk to your capital."
+    minimumDeposit: $250
+    spreadsFrom: 1.5 pips
+    commission: No commission
+    leverage: Up to 1:1000
+    baseCurrency: USD, EUR, GBP, AUD, CAD, CHF
+    ctaButtonText: Open Account
+    ctaButtonLink: https://secure.premiermarkets.com/login
+    displayOrder: 1
+  - slug: raw
+    accountType: raw
+    name: Raw Account
+    description: >-
+      Experience institutional-grade trading with raw spreads, instant
+      execution, and direct access to deep market liquidity.
+    badge: MOST POPULAR
+    minimumDeposit: $250
+    spreadsFrom: 0.0 pips
+    commission: $3.5/side
+    leverage: Up to 1:1000
+    baseCurrency: USD, EUR, GBP, AUD, CAD, CHF
+    ctaButtonText: Open Account
+    ctaButtonLink: https://secure.premiermarkets.com/login
+    displayOrder: 2
+  - slug: pro
+    accountType: pro
+    name: Pro Account
+    description: >-
+      Our most popular account, designed for traders seeking reliable execution,
+      tight spreads, and enhanced trading power.
+    minimumDeposit: $1,000
+    spreadsFrom: 0.8 pips
+    commission: No commission
+    leverage: Up to 1:1000
+    baseCurrency: USD, EUR, GBP, AUD, CAD, CHF
+    ctaButtonText: Open Account
+    ctaButtonLink: https://secure.premiermarkets.com/login
+    displayOrder: 3
