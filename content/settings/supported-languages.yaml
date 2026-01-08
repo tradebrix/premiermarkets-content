@@ -53,3 +53,23 @@ languages:
     flag: /figma/vn.svg
     emoji: 🇻🇳
     enabled: true
+  - code: sv
+    name: Swedish
+    nativeName: Svenska
+    flag: /figma/se.svg
+    enabled: true
+  - code: fr
+    name: French
+    nativeName: Français
+    flag: /figma/fr.svg
+    enabled: true
+  - code: it
+    name: Italian
+    nativeName: Italiano
+    flag: /figma/it.svg
+    enabled: true
+  - code: nl
+    name: Dutch
+    nativeName: Nederlands
+    flag: /figma/nl.svg
+    enabled: true
