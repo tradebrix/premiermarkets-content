@@ -1,0 +1,55 @@
+languages:
+  - code: en
+    name: English
+    nativeName: English
+    flag: /figma/gb.svg
+    emoji: 🇬🇧
+    enabled: true
+  - code: ar
+    name: Arabic
+    nativeName: Arabic
+    flag: /figma/ae.svg
+    emoji: 🇦🇪
+    enabled: true
+  - code: ko
+    name: Korean
+    nativeName: Korean
+    flag: /figma/kor.svg
+    emoji: 🇰🇷
+    enabled: true
+  - code: ms
+    name: Malay
+    nativeName: Malay
+    flag: /figma/mys.svg
+    emoji: 🇲🇾
+    enabled: true
+  - code: pt
+    name: Portuguese (Brazil)
+    nativeName: Portuguese (Brazil)
+    flag: /figma/prt.svg
+    emoji: 🇧🇷
+    enabled: true
+  - code: es
+    name: Spanish
+    nativeName: Spanish
+    flag: /figma/es.svg
+    emoji: 🇪🇸
+    enabled: true
+  - code: zh
+    name: Chinese (Simplified)
+    nativeName: Chinese (Simplified)
+    flag: /figma/chn.svg
+    emoji: 🇨🇳
+    enabled: true
+  - code: id
+    name: Indonesian
+    nativeName: Indonesian
+    flag: /figma/idn.svg
+    emoji: 🇮🇩
+    enabled: true
+  - code: vi
+    name: Vietnamese
+    nativeName: Vietnamese
+    flag: /figma/vn.svg
+    emoji: 🇻🇳
+    enabled: true
