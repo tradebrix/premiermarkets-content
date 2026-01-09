@@ -1,0 +1,36 @@
+languageCode: en
+locale: en
+title: Partnerships that perform
+titleHighlight: Partnerships
+subtitle: >-
+  We empower Introducing Brokers, Affiliates, and Partners with the
+  infrastructure, transparency, tools, and support to grow faster.
+cards:
+  - title: Daily Rebates
+    subtitle: Turn each trading day into payday.
+    backgroundColor: '#ED1D25'
+    image: /images/partners/home/partners-home-partnership1.png
+  - title: Marketing Support
+    subtitle: Access to professional tools, support and marketing materials.
+    backgroundColor: '#000000'
+    image: /images/partners/home/partners-home-partnership2.png
+  - title: "Transparent Reporting\_"
+    subtitle: Real-time visibility of clients, trades, and earnings.
+    backgroundColor: '#ED1D25'
+    image: /images/partners/home/partners-home-partnership3.png
+  - title: Dedicated Portal
+    subtitle: Manage everything in one seamless dashboard.
+    backgroundColor: '#000000'
+    image: /images/partners/home/partners-home-partnership4.png
+  - title: Tiered Rewards
+    subtitle: Flexible programs that scale with your performance.
+    backgroundColor: '#ED1D25'
+    image: /images/partners/home/partners-home-partnership5.png
+  - title: Global Coverage
+    subtitle: >-
+      Expand your reach with our 24/5 multilingual support team and global
+      payment methods.
+    backgroundColor: '#000000'
+    image: /images/partners/home/partners-home-partnership6.png
+    titleHighlight: 24/5
+    subtitleBold: multilingual support

@@ -10,7 +10,7 @@ sections:
       - title: Start Trading
         links:
           - icon: /icons/navbar/icon-S1SU1E1.svg
-            title: Why trade with premier?
+            title: Why trade with Premier?
             href: /trading/why-trade-with-premier
           - icon: /icons/navbar/icon-S1SU1E2.svg
             title: Account Types
@@ -85,3 +85,12 @@ sections:
             href: /contactus
 partnerships:
   title: Partnerships
+partnersLinks:
+  - title: Introducing Brokers
+    href: https://secure.premiermarkets.com/login
+  - title: CPA Affiliates
+    href: https://secure.premiermarkets.com/login
+  - title: Hybrid Model
+    href: https://secure.premiermarkets.com/login
+  - title: Fund Managers
+    href: https://secure.premiermarkets.com/login

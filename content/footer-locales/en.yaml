@@ -7,49 +7,49 @@ description: >-
 quickLinksTitle: Quick links
 quickLinks:
   - title: Start Trading
-    href: /register
+    href: https://secure.premiermarkets.com/login
   - title: Accounts
-    href: /trading/accounts
+    href: https://premiermarkets.com/trading/accounts
   - title: Deposits and Withdrawals
-    href: /deposit-withdraw
+    href: https://premiermarkets.com/deposit-withdraw
   - title: MT5
-    href: /mt5
+    href: https://premiermarkets.com/deposit-withdraw
   - title: ProTrader
-    href: /protrader
+    href: https://premiermarkets.com/protrader
   - title: PAMM Investing
-    href: /pamm
+    href: https://premiermarkets.com/pamm
 marketsTitle: Markets
 marketsLinks:
   - title: Forex
-    href: /markets/forex
+    href: https://premiermarkets.com/markets/forex
   - title: Metals
-    href: /markets/metals
+    href: https://premiermarkets.com/markets/metals
   - title: Shares
-    href: /markets/shares
+    href: https://premiermarkets.com/markets/shares
   - title: Commodities
-    href: /markets/commodities
+    href: https://premiermarkets.com/markets/commodities
   - title: Indices
-    href: /markets/indices
+    href: https://premiermarkets.com/markets/indices
   - title: Crypto
-    href: /markets/crypto
+    href: https://premiermarkets.com/markets/crypto
 companyTitle: Company
 companyLinks:
   - title: About Us
-    href: /about
+    href: https://premiermarkets.com/about
   - title: Why Trade with Premier?
-    href: /trading/why-trade-with-premier
+    href: https://premiermarkets.com/trading/why-trade-with-premier
   - title: Security of Funds
-    href: /security-of-funds
+    href: https://premiermarkets.com/security-of-funds
   - title: Careers
-    href: /careers
+    href: https://premiermarkets.com/careers
   - title: Partnerships
     href: https://secure.premiermarkets.com/register
 supportTitle: Support
 supportLinks:
   - title: Contact Us
-    href: /contactus
+    href: https://premiermarkets.com/contactus
   - title: Legal Documents
-    href: /legal-documents
+    href: https://premiermarkets.com/legal-documents
 paragraph1: >-
   CFDs are complex instruments and come with a high risk of losing money rapidly
   due to leverage. You should consider whether you understand how CFDs work and

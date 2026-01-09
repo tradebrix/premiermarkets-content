@@ -1,0 +1,45 @@
+languageCode: en
+locale: en
+cards:
+  - title: Safety of client funds
+    subtitle: >-
+      Your capital is held securely in top-tier banks, fully segregated from
+      company assets to safeguard every deposit.
+    cardType: '1'
+    image: /images/partners/home/partners-home-card1.png
+    displayOrder: 1
+  - title: Multilingual support 24/5
+    subtitle: >-
+      Personalized, multilingual assistance available 24/5. Real people who
+      understand markets and respond when it matters most.
+    cardType: '2'
+    image: /images/partners/home/partners-home-card2.png
+    displayOrder: 2
+  - title: Low cost trading conditions
+    subtitle: >-
+      Spreads from 0.0 pips and ultra-low commissions for clear, consistent and
+      competitive pricing with no hidden fees.
+    cardType: '3'
+    image: /images/partners/home/partners-home-card3.png
+    displayOrder: 3
+  - title: Global market access
+    subtitle: >-
+      Trade 17,000+ instruments across forex, indices, metals, commodities,
+      stocks, and crypto.
+    cardType: '4'
+    image: /images/partners/home/partners-home-card4.png
+    displayOrder: 4
+  - title: Easy and reliable funding
+    subtitle: >-
+      Fast, secure deposits and withdrawals through trusted global payment
+      providers, designed for seamless transactions.
+    cardType: '5'
+    image: /images/partners/home/partners-home-card5.png
+    displayOrder: 5
+  - title: Advanced trading platforms
+    subtitle: >-
+      Institutional-grade performance powered by MT5 and Premier’s WebTrader,
+      refined for speed and accuracy.
+    cardType: '6'
+    image: /images/partners/home/partners-home-card6.png
+    displayOrder: 6

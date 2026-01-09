@@ -1,0 +1,33 @@
+languageCode: en
+locale: en
+title: One network. Many paths to profit
+titleHighlight: network.
+subtitle: >-
+  Whether you attract clients, build networks, or manage investor funds, there's
+  a partnership structure tailored to you. Premier Markets is built for every
+  partnership model.
+cards:
+  - title: Introducing Broker
+    labels:
+      - text: >-
+          Earn rebates on client volume and grow through transparent commission
+          tiers.
+      - text: Earn up to $28 rebates.
+        highlight: $28 rebates.
+    learnMoreText: Learn More
+  - title: CPA Affiliate program
+    labels:
+      - text: Convert traffic and leads through competitive CPA structures.
+      - text: Earn up to $1,200 CPA
+        highlight: $1,200 CPA
+    learnMoreText: Learn More
+  - title: Hybrid Model
+    labels:
+      - text: Combine rebates and CPA for maximum flexibility.
+      - text: Turn every referral into stronger revenue.
+    learnMoreText: Learn More
+  - title: Fund Management
+    labels:
+      - text: Manage funds transparently and share profits through secure systems.
+      - text: Earn more as your managed capital grows.
+    learnMoreText: Learn More
