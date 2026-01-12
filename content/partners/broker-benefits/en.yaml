@@ -1,0 +1,25 @@
+languageCode: en
+locale: en
+title: Premier IB Benefits
+titleHighlight: Benefits
+subtitle: >-
+  Our Introducing Broker program is built to help partners grow with transparent
+  rebates, reliable payouts, and technology that empowers both you and your
+  clients.
+cards:
+  - title: High Rebates, Flexible Tiers
+    subtitle: Earn competitive commissions that increase as your referred volume grows.
+    cardType: '1'
+  - title: Daily Rebates Payouts
+    subtitle: Enjoy instant access to your earnings with automated daily rebates.
+    cardType: '2'
+  - title: Multi-Level Partnerships
+    subtitle: >-
+      Expand your network and earn from sub-IBs to maximize your long-term
+      revenue.
+    cardType: '3'
+  - title: Dedicated Partner Support
+    subtitle: >-
+      Access multilingual assistance and personalized guidance from our
+      partnership team — available worldwide, whenever you need it.
+    cardType: '4'
