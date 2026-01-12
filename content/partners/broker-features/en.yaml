@@ -1,0 +1,13 @@
+languageCode: en
+locale: en
+cards:
+  - title: Real-time commission overview
+    subtitle: >-
+      Track your monthly earnings, outstanding balance and lots traded in one
+      glance.
+  - title: Network revenue summary
+    subtitle: "Review\_total deposits, withdrawals, net deposits, and monthly revenue\_across your\_Sub IBs and clients."
+  - title: Instant view of client activity
+    subtitle: "See how many\_Sub IBs and clients\_have\_registered, deposited, and traded\_so you know who’s active."
+  - title: Custom date filters & reporting
+    subtitle: "Filter by\_custom dates\_to analyse performance over the exact period you need."
