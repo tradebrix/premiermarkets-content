@@ -15,6 +15,7 @@ cards:
       - text: Earn up to $28 rebates.
         highlight: $28 rebates.
     learnMoreText: Learn More
+    link: https://partners.premiermarkets.com/broker
   - title: CPA Affiliate program
     labels:
       - text: Convert traffic and leads through competitive CPA structures.
