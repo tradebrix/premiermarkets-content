@@ -1,0 +1,13 @@
+languageCode: en
+locale: en
+title: Why do affiliates choose Premier Markets?
+titleHighlight: Premier Markets?
+cards:
+  - text: Multi-asset offering with 17,000+ tradable instruments.
+    icon: /icons/partners/home/cpa-affiliate/cpa-affiliate-choose-1.svg
+  - text: Cross-device platforms
+    icon: /icons/partners/home/cpa-affiliate/cpa-affiliate-choose-2.svg
+  - text: Tight pricing & fast execution
+    icon: /icons/partners/home/cpa-affiliate/cpa-affiliate-choose-3.svg
+  - text: Tools that keep traders engaged
+    icon: /icons/partners/home/cpa-affiliate/cpa-affiliate-choose-4.svg
