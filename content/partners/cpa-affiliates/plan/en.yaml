@@ -1,0 +1,51 @@
+languageCode: en
+locale: en
+title: Build the Right CPA Plan for Your Traffic
+titleHighlight: CPA Plan
+subtitle: >-
+  Premier's CPA program lets you match payout tiers to your traffic quality,
+  target deposits, and monthly volumes, so you earn more from every qualified
+  account.
+tabs:
+  - tabTitle: CPA
+    tabSubtitle: $1200*
+    rows:
+      - tierName: Tier 1
+        conditions:
+          - boldText: '$1000 '
+            text: Minimum deposit
+          - boldText: "\L2 FX "
+            text: Lots Traded
+        rewards:
+          - range: 01 - 29
+            isRangeBold: false
+            cpaReward: CPA $1000
+          - range: 30 – 49
+            isRangeBold: false
+            cpaReward: CPA $1000
+            bonus: + $3000 monthly bonus**
+          - range: 50+
+            isRangeBold: false
+            cpaReward: CPA $1000
+            bonus: + $10,000 monthly bonus**
+      - tierName: Tier 2
+        conditions:
+          - boldText: '$1000 '
+            text: Minimum deposit
+          - boldText: "\L2 FX "
+            text: Lots Traded
+        rewards:
+          - range: 01 - 29
+            isRangeBold: false
+            cpaReward: CPA $600
+          - range: 30 – 49
+            isRangeBold: false
+            cpaReward: CPA $600
+            bonus: + $3000 monthly bonus**
+          - range: 50+
+            isRangeBold: false
+            cpaReward: CPA $600
+            bonus: + $10,000 monthly bonus**
+tableFootnote: >-
+  */** The monthly bonus is only applicable to affiliates whose monthly net
+  deposits are a minimum of 3 times their monthly CPA commission total.
