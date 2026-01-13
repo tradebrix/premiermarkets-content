@@ -1,0 +1,18 @@
+languageCode: en
+locale: en
+title: Tiered CPA by region
+titleHighlight: CPA
+subtitle: >-
+  Align your campaigns with regional performance. Premier can apply tiered CPA
+  levels by country so you can optimise media buying and lead quality.
+cards:
+  - headerText: Tier 1
+    bodyText: Austria, Denmark, Ireland, Switzerland, Norway, Netherlands, Sweden
+  - headerText: Tier 2
+    bodyText: >-
+      Belgium, Hong Kong, Finland, France, Israel, Portugal, Kuwait, Qatar,
+      Saudi Arabia, Malaysia
+  - headerText: Tier 3
+    bodyText: >-
+      Czech Republic, Slovak Republic, Poland, Taiwan, Colombia, Thailand,
+      Mexico, South Africa
