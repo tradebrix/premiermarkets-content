@@ -46,6 +46,168 @@ tabs:
             isRangeBold: false
             cpaReward: CPA $600
             bonus: + $10,000 monthly bonus**
+      - tierName: Tier 3
+        conditions:
+          - boldText: '$1000 '
+            text: Minimum deposit
+          - boldText: "\L2 FX "
+            text: Lots Traded
+        rewards:
+          - range: 01 - 29
+            isRangeBold: false
+            cpaReward: CPA $400
+          - range: 30 – 49
+            isRangeBold: false
+            cpaReward: CPA $400
+            bonus: + $3000 monthly bonus**
+          - range: 50+
+            isRangeBold: false
+            cpaReward: CPA $400
+            bonus: + $10,000 monthly bonus**
+      - tierName: Other Countries
+        conditions:
+          - boldText: '$1000 '
+            text: Minimum deposit
+          - boldText: "\L2 FX "
+            text: Lots Traded
+        rewards:
+          - range: ---
+            isRangeBold: false
+            cpaReward: CPA $100
+  - tabTitle: CPA
+    tabSubtitle: $800*
+    rows:
+      - tierName: Tier 1
+        conditions:
+          - boldText: '$500 '
+            text: Minimum deposit
+          - boldText: "\L2 FX "
+            text: Lots Traded
+        rewards:
+          - range: 01 - 29
+            isRangeBold: false
+            cpaReward: CPA $600
+          - range: 30 – 49
+            isRangeBold: false
+            cpaReward: CPA $600
+            bonus: + $3000 monthly bonus**
+          - range: 50+
+            isRangeBold: false
+            cpaReward: CPA $600
+            bonus: + $10,000 monthly bonus**
+      - tierName: Tier 2
+        conditions:
+          - boldText: '$500 '
+            text: Minimum deposit
+          - boldText: "\L2 FX "
+            text: Lots Traded
+        rewards:
+          - range: 01 - 29
+            isRangeBold: false
+            cpaReward: CPA $400
+          - range: 30 – 49
+            isRangeBold: false
+            cpaReward: CPA $400
+            bonus: + $3000 monthly bonus**
+          - range: 50+
+            isRangeBold: false
+            cpaReward: CPA $400
+            bonus: + $10,000 monthly bonus**
+      - tierName: Tier 3
+        conditions:
+          - boldText: '$500 '
+            text: Minimum deposit
+          - boldText: "\L2 FX "
+            text: Lots Traded
+        rewards:
+          - range: 01 - 29
+            isRangeBold: false
+            cpaReward: CPA $300
+          - range: 30 – 49
+            isRangeBold: false
+            cpaReward: CPA $300
+            bonus: + $3000 monthly bonus**
+          - range: 50+
+            isRangeBold: false
+            cpaReward: CPA $300
+            bonus: + $10,000 monthly bonus**
+      - tierName: Other Countries
+        conditions:
+          - boldText: '$500 '
+            text: Minimum deposit
+          - boldText: "\L2 FX "
+            text: Lots Traded
+        rewards:
+          - range: ---
+            isRangeBold: false
+            cpaReward: CPA $100
+  - tabTitle: CPA
+    tabSubtitle: $500*
+    rows:
+      - tierName: Tier 1
+        conditions:
+          - boldText: '$200 '
+            text: Minimum deposit
+          - boldText: "\L2 FX "
+            text: Lots Traded
+        rewards:
+          - range: 01 - 29
+            isRangeBold: false
+            cpaReward: CPA $300
+          - range: 30 – 49
+            isRangeBold: false
+            cpaReward: CPA $300
+            bonus: + $3000 monthly bonus**
+          - range: 50+
+            isRangeBold: false
+            cpaReward: CPA $300
+            bonus: + $10,000 monthly bonus**
+      - tierName: Tier 2
+        conditions:
+          - boldText: '$200 '
+            text: Minimum deposit
+          - boldText: "\L2 FX "
+            text: Lots Traded
+        rewards:
+          - range: 01 - 29
+            isRangeBold: false
+            cpaReward: CPA $200
+          - range: 30 – 49
+            isRangeBold: false
+            cpaReward: CPA $200
+            bonus: + $3000 monthly bonus**
+          - range: 50+
+            isRangeBold: false
+            cpaReward: CPA $200
+            bonus: + $10,000 monthly bonus**
+      - tierName: Tier 3
+        conditions:
+          - boldText: '$200 '
+            text: Minimum deposit
+          - boldText: "\L2 FX "
+            text: Lots Traded
+        rewards:
+          - range: 01 - 29
+            isRangeBold: false
+            cpaReward: CPA $100
+          - range: 30 – 49
+            isRangeBold: false
+            cpaReward: CPA $100
+            bonus: + $3000 monthly bonus**
+          - range: 50+
+            isRangeBold: false
+            cpaReward: CPA $100
+            bonus: + $10,000 monthly bonus**
+      - tierName: Other Countries
+        conditions:
+          - boldText: '$200 '
+            text: Minimum deposit
+          - boldText: "\L2 FX "
+            text: Lots Traded
+        rewards:
+          - range: ---
+            isRangeBold: false
+            cpaReward: CPA $100
 tableFootnote: >-
   */** The monthly bonus is only applicable to affiliates whose monthly net
   deposits are a minimum of 3 times their monthly CPA commission total.
