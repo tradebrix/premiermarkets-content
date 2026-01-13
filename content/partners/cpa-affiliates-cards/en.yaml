@@ -1,0 +1,19 @@
+languageCode: en
+locale: en
+cards:
+  - title: High CPA Payouts
+    description: >-
+      Earn industry-leading commissions for every active referral Up to $1,200*
+      CPA.
+    cardType: '1'
+  - title: Fast & Reliable Payments
+    description: >-
+      Withdraw your earnings securely from your wallet with multiple payment
+      options.
+    cardType: '2'
+  - title: Global Audience Reach
+    description: Promote Premier Markets in regions of your choice.
+    cardType: '3'
+  - title: Marketing Support
+    description: Tools, data, and execution engineered for serious trading.
+    cardType: '4'
