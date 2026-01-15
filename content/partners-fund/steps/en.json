@@ -1,0 +1,21 @@
+{
+  "languageCode": "en",
+  "locale": "en",
+  "title": "Become a PAMM Manager in 3 steps",
+  "titleHighlight": "Manager in 3 steps",
+  "card1Step": "Step 01",
+  "card1Text": "Submit your details and trading background to be considered for a PAMM Manager setup on the Premier platform.",
+  "card1TextHighlight": "Submit your details",
+  "card1ButtonText": "Apply Now",
+  "card1ButtonLink": "https://secure.premiermarkets.com/login",
+  "card2Step": "Step 02",
+  "card2Title": "Configure your structure",
+  "card2Subtitle": "Work with the team to set up your master account, performance fee parameters, and investor profile.",
+  "card3Step": "Step 03",
+  "card3Title": "Trade and scale your investors",
+  "card3Subtitle": "Start trading your master account while Premier's PAMM engine manages allocation, reporting, and fee calculations in the background.",
+  "ctaTitle": "Let your track record attract capital",
+  "ctaSubtitle": "Use Premier's PAMM infrastructure to turn your trading performance into a scalable fund management business.",
+  "ctaButtonText": "Start as a PAMM Manager",
+  "ctaButtonLink": "https://partners.premiermarkets.com/contactus"
+}
