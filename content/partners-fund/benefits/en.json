@@ -1,0 +1,28 @@
+{
+  "languageCode": "en",
+  "locale": "en",
+  "title": "Key benefits for PAMM Managers",
+  "titleHighlight": "PAMM Managers",
+  "cards": [
+    {
+      "title": "Protect your edge",
+      "subtitle": "Keep your models and execution private while investors follow your results."
+    },
+    {
+      "title": "Flexible performance fees",
+      "subtitle": "Set a fee structure that suits you while Premier calculates and allocates using high watermark logic."
+    },
+    {
+      "title": "Auto deposits and withdrawals",
+      "subtitle": "When investors add or withdraw funds, allocations adjust automatically without manual work."
+    },
+    {
+      "title": "Manager alerts and visibility",
+      "subtitle": "Get alerts on new allocations and view investor lists and performance in one dashboard."
+    },
+    {
+      "title": "Manual and EA strategies",
+      "subtitle": "Run discretionary or algorithmic strategies while the PAMM system distributes every trade across linked investors."
+    }
+  ]
+}
