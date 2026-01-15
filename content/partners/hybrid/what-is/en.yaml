@@ -1,0 +1,21 @@
+languageCode: en
+locale: en
+title: What is a Hybrid Model Partner?
+titleHighlight: Hybrid Model
+subtitle: >-
+  A Hybrid Model Partner works with Premier on a mixed-revenue structure that
+  combines upfront CPA payments with ongoing trading rebates from referred
+  clients.
+cards:
+  - icon: /icons/partners/home/hybrid/hybrid-card1.svg
+    text: "Earn up to\_$400 CPA* per qualified client"
+  - icon: /icons/partners/home/hybrid/hybrid-card2.svg
+    text: "Over\_600 active partners\_worldwide"
+  - icon: /icons/partners/home/hybrid/hybrid-card3.svg
+    text: "More than\_50,000 live funded accounts"
+  - icon: /icons/partners/home/hybrid/hybrid-card4.svg
+    text: "Up to\_$6 per lot\_in ongoing rebates"
+  - icon: /icons/partners/home/hybrid/hybrid-card5.svg
+    text: "Over\_$1.5M paid in commissions each month"
+  - icon: /icons/partners/home/hybrid/hybrid-card6.svg
+    text: "More than\_$21 billion in monthly trading volume"
