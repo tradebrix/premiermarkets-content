@@ -1,0 +1,20 @@
+languageCode: en
+locale: en
+title: Start Earning as a Premier CPA Affiliate Partner
+titleHighlight: Start Earning
+buttonText: Become a CPA Affiliate
+buttonLink: https://partners.premiermarkets.com/contactus
+steps:
+  - count: '1'
+    title: Register
+    subtitle: >-
+      Complete a quick online registration and get instant access to your IB
+      dashboard.
+  - count: '2'
+    title: Refer Clients
+    subtitle: Share your referral link and start onboarding clients to Premier Markets.
+  - count: '3'
+    title: Earn Rebates
+    subtitle: >-
+      Receive transparent, automated commissions on every trade your clients
+      make with daily payouts and full visibility.
