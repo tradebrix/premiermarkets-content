@@ -1,0 +1,59 @@
+languageCode: en
+locale: en
+cards:
+  - methodName: Credit / Debit Card
+    description: Deposit or withdraw instantly with credit or debit card.
+    processingTimeLimit: Instant
+    currencies: USD, GBP, EUR
+    icon: /images/deposit-withdraw/deposit-payment-cards.png
+    buttonText: Deposit
+    buttonLink: https://secure.premiermarkets.com/login
+  - methodName: Google Pay / Apple Pay
+    description: Deposit & withdraw instantly using your GooglePay or ApplePay.
+    processingTimeLimit: Instant
+    currencies: USD, EUR, GBP
+    icon: /images/deposit-withdraw/deposit-payment-googleapple.png
+    buttonText: Deposit
+    buttonLink: /sign-up
+  - methodName: Citi Bank
+    description: Secure transactions via Tier 1 banking institutions.
+    processingTimeLimit: 3-5 Working Days
+    currencies: USD, GBP
+    icon: /images/deposit-withdraw/deposit-payment-citi.png
+    buttonText: Deposit
+    buttonLink: /sign-up
+  - methodName: Swiss Bank
+    description: Secure transactions via Tier 1 Swiss-based banking institutions.
+    processingTimeLimit: 3-5 Working Days
+    currencies: CHF
+    icon: /images/deposit-withdraw/deposit-payment-america.png
+    buttonText: Deposit
+    buttonLink: /sign-up
+  - methodName: Wire Transfer
+    description: Deposit or withdraw instantly with Wire Transfer.
+    processingTimeLimit: 3-5 Working Days
+    currencies: EUR
+    icon: /images/deposit-withdraw/deposit-payment-wite.png
+    buttonText: Deposit
+    buttonLink: /sign-up
+  - methodName: Crypto
+    description: Deposit or withdraw crypto instantly from your wallet.
+    processingTimeLimit: Instant
+    currencies: BTC, USDT, USDC, + 30 more
+    icon: /images/deposit-withdraw/deposit-payment-crypto.png
+    buttonText: Deposit
+    buttonLink: /sign-up
+  - methodName: Skrill
+    description: Deposit or withdraw instantly with Skrill
+    processingTimeLimit: Instant
+    currencies: USD
+    icon: /images/deposit-withdraw/deposit-payment-skrill.png
+    buttonText: Deposit
+    buttonLink: /sign-up
+  - methodName: Pix
+    description: Deposit and withdraw securely with Pix.
+    processingTimeLimit: Instant
+    currencies: BRL
+    icon: /images/deposit-withdraw/deposit-payment-pix.png
+    buttonText: Deposit
+    buttonLink: /sign-up

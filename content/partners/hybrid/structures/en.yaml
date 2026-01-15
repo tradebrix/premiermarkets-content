@@ -1,0 +1,216 @@
+languageCode: en
+locale: en
+title: Hybrid commission & rebate structures
+titleHighlight: rebate
+subtitle: >-
+  Choose the balance between CPA and rebates that matches your acquisition
+  strategy. Premier offers multiple Hybrid splits so you can optimise for your
+  funnel, geography, and traffic quality.
+caption: >-
+  * / ** The monthly bonus is only applicable to affiliates whose monthly net
+  deposits are a minimum of 3 times their monthly CPA commission total.
+tabs:
+  - tabTitle: 20/80
+    rows:
+      - tierName: Tier 1
+        requirements:
+          - boldText: '$500'
+            text: Minimum Deposit
+          - boldText: '2 FX'
+            text: Lots Traded
+        paymentTiers:
+          - range: 01 – 29
+            isRangeBold: false
+            cpaPayment: $120
+            monthlyBonus: '---'
+          - range: 30 – 49
+            isRangeBold: false
+            cpaPayment: $120
+            monthlyBonus: monthly bonus
+            monthlyBonusHighlight: '$1,500'
+          - range: 50+
+            isRangeBold: true
+            cpaPayment: $120
+            monthlyBonus: monthly bonus
+            monthlyBonusHighlight: '$5,000'
+        rebateStructure: $6 for FX, Gold, Oil
+      - tierName: Tier 2
+        requirements:
+          - boldText: '$500'
+            text: Minimum deposit
+          - boldText: '2 FX'
+            text: Lots Traded
+        paymentTiers:
+          - range: 01 – 29
+            isRangeBold: false
+            cpaPayment: $80
+            monthlyBonus: '---'
+          - range: 30 – 49
+            isRangeBold: false
+            cpaPayment: $80
+            monthlyBonus: monthly bonus
+            monthlyBonusHighlight: '$1,500'
+          - range: 50+
+            isRangeBold: true
+            cpaPayment: $80
+            monthlyBonus: monthly bonus
+            monthlyBonusHighlight: '$5,000'
+        rebateStructure: $6 for FX, Gold, Oil
+      - tierName: Tier 3
+        requirements:
+          - boldText: '$500'
+            text: Minimum deposit
+          - boldText: '2 FX'
+            text: Lots Traded
+        paymentTiers:
+          - range: 01 – 29
+            isRangeBold: false
+            cpaPayment: $60
+            monthlyBonus: '---'
+          - range: 30 – 49
+            isRangeBold: false
+            cpaPayment: $60
+            monthlyBonus: monthly bonus
+            monthlyBonusHighlight: '$600'
+          - range: 50+
+            isRangeBold: true
+            cpaPayment: $60
+            monthlyBonus: monthly bonus
+            monthlyBonusHighlight: '$2,000'
+        rebateStructure: $6 for FX, Gold, Oil
+  - tabTitle: 50/50
+    rows:
+      - tierName: Tier 1
+        requirements:
+          - boldText: '$500'
+            text: Minimum Deposit
+          - boldText: '2 FX'
+            text: Lots Traded
+        paymentTiers:
+          - range: 01 – 29
+            isRangeBold: false
+            cpaPayment: $300
+            monthlyBonus: '---'
+          - range: 30 – 49
+            isRangeBold: false
+            cpaPayment: $300
+            monthlyBonus: monthly bonus
+            monthlyBonusHighlight: '$1,500'
+          - range: 50+
+            isRangeBold: true
+            cpaPayment: $300
+            monthlyBonus: monthly bonus
+            monthlyBonusHighlight: '$5,000'
+        rebateStructure: $4 for FX, Gold, Oil
+      - tierName: Tier 2
+        requirements:
+          - boldText: '$500'
+            text: Minimum deposit
+          - boldText: '2 FX'
+            text: Lots Traded
+        paymentTiers:
+          - range: 01 – 29
+            isRangeBold: false
+            cpaPayment: $200
+            monthlyBonus: '---'
+          - range: 30 – 49
+            isRangeBold: false
+            cpaPayment: $200
+            monthlyBonus: monthly bonus
+            monthlyBonusHighlight: '$1,500'
+          - range: 50+
+            isRangeBold: true
+            cpaPayment: $200
+            monthlyBonus: monthly bonus
+            monthlyBonusHighlight: '$5,000'
+        rebateStructure: $4 for FX, Gold, Oil
+      - tierName: Tier 3
+        requirements:
+          - boldText: '$500'
+            text: Minimum deposit
+          - boldText: '2 FX'
+            text: Lots Traded
+        paymentTiers:
+          - range: 01 – 29
+            isRangeBold: false
+            cpaPayment: $150
+            monthlyBonus: '---'
+          - range: 30 – 49
+            isRangeBold: false
+            cpaPayment: $150
+            monthlyBonus: monthly bonus
+            monthlyBonusHighlight: '$1,500'
+          - range: 50+
+            isRangeBold: true
+            cpaPayment: $150
+            monthlyBonus: monthly bonus
+            monthlyBonusHighlight: '$5,000'
+        rebateStructure: $4 for FX, Gold, Oil
+  - tabTitle: 80/20
+    rows:
+      - tierName: Tier 1
+        requirements:
+          - boldText: '$500'
+            text: Minimum deposit
+          - boldText: '2 FX'
+            text: Lots Traded
+        paymentTiers:
+          - range: 01 – 29
+            isRangeBold: false
+            cpaPayment: $480
+            monthlyBonus: '---'
+          - range: 30 – 49
+            isRangeBold: false
+            cpaPayment: $480
+            monthlyBonus: monthly bonus**
+            monthlyBonusHighlight: '$2,400'
+          - range: 50+
+            isRangeBold: true
+            cpaPayment: $480
+            monthlyBonus: monthly bonus
+            monthlyBonusHighlight: '$8,000'
+        rebateStructure: $2 for FX, Gold, Oil
+      - tierName: Tier 2
+        requirements:
+          - boldText: '$500'
+            text: Minimum deposit
+          - boldText: '2 FX'
+            text: Lots Traded
+        paymentTiers:
+          - range: 01 – 29
+            isRangeBold: false
+            cpaPayment: $320
+            monthlyBonus: '---'
+          - range: 30 – 49
+            isRangeBold: false
+            cpaPayment: $320
+            monthlyBonus: monthly bonus**
+            monthlyBonusHighlight: '$2,400'
+          - range: 50+
+            isRangeBold: true
+            cpaPayment: $320
+            monthlyBonus: monthly bonus
+            monthlyBonusHighlight: '$8,000'
+        rebateStructure: $2 for FX, Gold, Oil
+      - tierName: Tier 3
+        requirements:
+          - boldText: '$500'
+            text: Minimum deposit
+          - boldText: '2 FX'
+            text: Lots Traded
+        paymentTiers:
+          - range: 01 – 29
+            isRangeBold: false
+            cpaPayment: $240
+            monthlyBonus: '---'
+          - range: 30 – 49
+            isRangeBold: false
+            cpaPayment: $240
+            monthlyBonus: monthly bonus**
+            monthlyBonusHighlight: '$2,400'
+          - range: 50+
+            isRangeBold: true
+            cpaPayment: $240
+            monthlyBonus: monthly bonus
+            monthlyBonusHighlight: '$8,000'
+        rebateStructure: $2 for FX, Gold, Oil

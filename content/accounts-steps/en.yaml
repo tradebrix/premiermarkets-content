@@ -4,9 +4,13 @@ title: Step into the Premier trading standard
 highlightedWord: Premier
 ctaButtonText: Start Trading
 ctaButtonLink: https://secure.premiermarkets.com/register
-step1Title: Register
-step1Description: Sign up in minutes and verify your account securely.
-step2Title: Fund
-step2Description: Deposit safely with trusted payment methods.
-step3Title: Start Trading
-step3Description: Trade instantly with smooth and fast withdrawals.
+steps:
+  - count: '1'
+    title: Register
+    subtitle: Sign up in minutes and verify your account securely.
+  - count: '2'
+    title: Fund
+    subtitle: Deposit safely with trusted payment methods.
+  - count: '3'
+    title: Start Trading
+    subtitle: Trade instantly with smooth and fast withdrawals.

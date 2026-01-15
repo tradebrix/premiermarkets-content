@@ -39,7 +39,7 @@ sections:
             href: /markets/forex
           - icon: /icons/navbar/icon-S1SU3E2.svg
             title: Metals
-            href: /markets/Metals
+            href: /markets/metals
           - icon: /icons/navbar/icon-S1SU3E3.svg
             title: Shares
             href: /markets/shares
@@ -91,6 +91,6 @@ partnersLinks:
   - title: CPA Affiliates
     href: https://partners.premiermarkets.com/cpa-affiliates
   - title: Hybrid Model
-    href: https://secure.premiermarkets.com/login
+    href: https://partners.premiermarkets.com/hybrid
   - title: Fund Managers
     href: https://secure.premiermarkets.com/login

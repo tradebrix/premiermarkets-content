@@ -3,9 +3,13 @@ locale: en
 title: Step into the Premier trading standard
 highlightedWord: Premier
 subtitle: Get started in 3 easy steps
-step1Title: Register
-step1Description: Sign up in minutes and verify your account securely.
-step2Title: Fund
-step2Description: Deposit safely with trusted payment methods.
-step3Title: Start Trading
-step3Description: Trade instantly with smooth and fast withdrawals.
+steps:
+  - count: "01"
+    title: Register
+    subtitle: Sign up in minutes and verify your account securely.
+  - count: "02"
+    title: Fund
+    subtitle: Deposit safely with trusted payment methods.
+  - count: "03"
+    title: Start Trading
+    subtitle: Trade instantly with smooth and fast withdrawals.
