@@ -1,0 +1,24 @@
+languageCode: en
+locale: en
+title: Ready to grow with Premier Partners?
+titleHighlight: Ready to grow
+subtitle: >-
+  Get in touch. Our Partnership team will help you choose the right model and
+  get started.
+firstNameLabel: First name
+firstNameHint: First name
+lastNameLabel: Last name
+lastNameHint: Last name
+emailLabel: Email
+emailHint: Enter your email
+phoneLabel: Phone number
+messageLabel: Message
+messageHint: Leave us a message...
+contactChoicesLabel: Preferred method of contact
+phoneChoiceLabel: Call back
+whatsappChoiceLabel: WhatsApp
+emailChoiceLabel: Email
+privacyText: You agree to our friendly Privacy Policy.
+privacyHighlight: Privacy Policy
+privacyLink: https://premiermarkets.com/legal/privacy-policy
+submitButtonText: Send Message
