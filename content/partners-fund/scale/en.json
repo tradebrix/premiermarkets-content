@@ -1,0 +1,21 @@
+{
+  "languageCode": "en",
+  "locale": "en",
+  "title": "Built to scale your AUM",
+  "titleHighlight": "AUM",
+  "subtitle": "Premier connects professional managers and investors through a transparent PAMM framework where incentives stay aligned. When your strategy performs well, investors benefit and your assets under management can grow.",
+  "cards": [
+    {
+      "title": "Real time monitoring",
+      "subtitle": "Investors can view your performance, open positions, and historical results in real time through the portal.\n"
+    },
+    {
+      "title": "Flexible allocation",
+      "subtitle": "Subject to the agreed terms, investors can increase, reduce, or close their allocation without interrupting your trading process."
+    },
+    {
+      "title": "Accurate allocation logic",
+      "subtitle": "Percentage allocations, trade sizes, and P and L are handled by the PAMM system, which reduces manual work and rounding issues."
+    }
+  ]
+}
