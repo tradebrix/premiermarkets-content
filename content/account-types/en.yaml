@@ -4,7 +4,9 @@ cards:
   - slug: standard
     accountType: standard
     name: Standard Account
-    description: "Open our most popular account to get\_bonuses that boost your trading power and reduce the risk to your capital."
+    description: >-
+      Our straight-forward, commission-free account with bonuses that boost your
+      trading power and reduce the risk to your capital.
     minimumDeposit: $250
     spreadsFrom: 1.5 pips
     commission: No commission
@@ -32,8 +34,8 @@ cards:
     accountType: pro
     name: Pro Account
     description: >-
-      Our most popular account, designed for traders seeking reliable execution,
-      tight spreads, and enhanced trading power.
+      Designed for higher-volume traders seeking ultra-reliable execution,
+      tighter spreads and enhanced trading power.
     minimumDeposit: $1,000
     spreadsFrom: 0.8 pips
     commission: No commission
