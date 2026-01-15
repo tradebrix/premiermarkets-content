@@ -1,0 +1,21 @@
+{
+  "languageCode": "en",
+  "locale": "en",
+  "title": "How PAMM Works?",
+  "titleHighlight": "PAMM",
+  "subtitle": "Simple to run. Built to scale.",
+  "cards": [
+    {
+      "title": "You trade a master account",
+      "subtitle": "Open a PAMM Manager Account on the Premier platform and execute your trading strategies."
+    },
+    {
+      "title": "Investors allocate capital to you",
+      "subtitle": "Investors select your strategy and choose how much to allocate. Their funds stay in their own accounts, linked to your master account."
+    },
+    {
+      "title": "Results and fees are automated",
+      "subtitle": "The system distributes trades, tracks investor performance, and calculates agreed performance fees at the end of each period."
+    }
+  ]
+}
