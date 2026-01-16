@@ -58,7 +58,7 @@ sections:
         links:
           - icon: /icons/navbar/icon-S2SU1E1.svg
             title: Economic Calendar
-            href: https://secure.premiermarkets.com/register
+            href: https://premiermarkets.com/en/economic-calendar
           - icon: /icons/navbar/icon-S2SU1E2.svg
             title: Trading Calculator
             href: https://secure.premiermarkets.com/register
