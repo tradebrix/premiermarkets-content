@@ -1,0 +1,86 @@
+title: Economic Calendar
+titleHighlight: Calendar
+subtitle: >-
+  Track major economic events and data releases that can impact the markets and
+  your trading decisions.
+tableSection:
+  title: Filters
+  filters:
+    date: Date
+    country: Country
+    impact: Impact
+  headers:
+    date: Date
+    time: Time
+    country: Country
+    event: Event
+    impact: Impact
+    expected: Expected
+    actual: Actual
+    previous: Previous
+faq:
+  title: Frequently Asked Questions
+  titleHighlight: Questions
+  items:
+    - question: What is an economic calendar?
+      answer: >-
+        An economic calendar is a schedule of upcoming economic data releases
+        and events that can influence financial markets. It serves as a roadmap
+        for traders and investors to anticipate potential market volatility and
+        prepare accordingly.
+    - question: How can a Currency Converter support your trading strategy?
+      answer: >-
+        An economic calendar highlights upcoming market-moving events and key
+        data releases. It usually shows:
+
+        Event type (e.g., interest rate decisions, GDP, inflation, employment
+        reports)
+
+        Release time (adjusted to global or local time zones)
+
+        Previous, Forecast & Actual values for each indicator
+
+        Expected market impact level to show how strongly the event may move
+        prices
+
+        This information helps traders quickly assess what’s happening, when
+        it’s happening, and how it could affect the markets.
+    - question: How do traders use the economic calendar?
+      answer: >-
+        Traders use the economic calendar to stay ahead of market-moving
+        events. 
+
+        They can:
+
+        Plan trades ahead of scheduled releases by choosing entry and exit
+        levels before volatility hits.
+
+        Adjust or close open positions to reduce risk when high-impact news is
+        expected.
+
+        Wait for the news to drop, then analyze how the market reacts before
+        executing a trade.
+
+        Compare Actual vs. Forecast vs. Previous data to decide whether price
+        movements are likely to continue or reverse.
+
+        Look for opportunities created by unexpected results, such as
+        stronger-than-expected employment, inflation, or interest rate
+        decisions.
+    - question: Is the economic calendar always accurate?
+      answer: >-
+        The calendar uses information from official sources such as the U.S.
+        Bureau of Labor Statistics, Federal Reserve, European Central Bank, Bank
+        of England, national statistics offices and other global organizations
+        that publish economic data. Prices, forecasts and release times are
+        collected from these institutions and trusted financial data providers.
+
+        Although the information comes from reliable sources, it may still
+        change without notice. Official figures can be revised, and markets can
+        react differently than expected.
+    - question: Does the economic calendar count as trading advice?
+      answer: >-
+        No. The calendar is provided for informational and educational purposes
+        only and should not be considered financial or investment advice.
+        Traders should always conduct their own analysis before making any
+        trading decisions.
