@@ -67,7 +67,7 @@ sections:
       - links:
           - icon: /icons/navbar/icon-S3SU1E1.svg
             title: Premier Club
-            href: https://secure.premiermarkets.com/register
+            href: /club
   - title: Company
     subsections:
       - links:
