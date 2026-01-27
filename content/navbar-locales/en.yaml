@@ -21,6 +21,9 @@ sections:
           - icon: /icons/navbar/icon-S1SU1E4.svg
             title: Deposits and Withdrawals
             href: /deposit-withdraw
+          - icon: ' /icons/navbar/icon-cent.svg'
+            title: Cent Account
+            href: /cent
       - title: Platforms
         links:
           - icon: /icons/navbar/icon-S1SU2E1.svg
@@ -32,6 +35,9 @@ sections:
           - icon: /icons/navbar/icon-S1SU2E3.svg
             title: PAMM
             href: /pamm
+          - icon: ' /icons/navbar/icon-copy-trading.svg'
+            title: Copy Trade
+            href: /copy-trading
       - title: Markets
         links:
           - icon: /icons/navbar/icon-S1SU3E1.svg
@@ -68,6 +74,9 @@ sections:
           - icon: /icons/navbar/icon-S3SU1E1.svg
             title: Premier Club
             href: /club
+          - icon: ' /icons/navbar/icon-promotion.svg'
+            title: 100% Welcome Bonus
+            href: /promo
   - title: Company
     subsections:
       - links:
