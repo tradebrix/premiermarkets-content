@@ -76,7 +76,7 @@ sections:
             href: /club
           - icon: ' /icons/navbar/icon-promotion.svg'
             title: 100% Welcome Bonus
-            href: /promo
+            href: /promotion
   - title: Company
     subsections:
       - links:
