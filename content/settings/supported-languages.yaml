@@ -6,65 +6,68 @@ languages:
     emoji: 🇬🇧
     enabled: true
   - code: ar
-    name: Arabic
-    nativeName: Arabic
+    name: العربية
+    nativeName: العربية
     flag: /figma/ae.svg
     emoji: 🇦🇪
     enabled: true
   - code: ko
-    name: Korean
-    nativeName: Korean
+    name: '한국어 '
+    nativeName: '한국어 '
     flag: /figma/kor.svg
     emoji: 🇰🇷
     enabled: true
   - code: ms
-    name: Malay
-    nativeName: Malay
+    name: Melayu
+    nativeName: Melayu
     flag: /figma/mys.svg
     emoji: 🇲🇾
     enabled: true
-  - code: pt
-    name: Portuguese (Brazil)
-    nativeName: Portuguese (Brazil)
+  - code: br
+    name: Português (Brasileiro)
+    nativeName: Português (Brasileiro)
     flag: /figma/prt.svg
     emoji: 🇧🇷
     enabled: true
   - code: es
-    name: Spanish
-    nativeName: Spanish
+    name: Español
+    nativeName: Español
     flag: /figma/es.svg
     emoji: 🇪🇸
     enabled: true
-  - code: zh
-    name: Chinese (Simplified)
-    nativeName: Chinese (Simplified)
+  - code: cn
+    name: 简体中文
+    nativeName: 简体中文
     flag: /figma/chn.svg
     emoji: 🇨🇳
     enabled: true
   - code: id
-    name: Indonesian
-    nativeName: Indonesian
+    name: Indonesia
+    nativeName: Indonesia
     flag: /figma/idn.svg
     emoji: 🇮🇩
     enabled: true
-  - code: vi
-    name: Vietnamese
-    nativeName: Vietnamese
+  - code: vn
+    name: Tiếng Việt
+    nativeName: Tiếng Việt
     flag: /figma/vn.svg
     emoji: 🇻🇳
     enabled: true
-  - code: sv
-    name: Swedish
+  - code: se
+    name: Svenska
     nativeName: Svenska
     flag: /figma/se.svg
+    emoji: 🇸🇪
     enabled: true
   - code: fr
-    name: French
+    name: Français
     nativeName: Français
     flag: /figma/fr.svg
+    emoji: 🇫🇷
     enabled: true
   - code: it
-    name: Italian
+    name: Italiano
     nativeName: Italiano
     flag: /figma/it.svg
+    emoji: 🇮🇹
     enabled: true
