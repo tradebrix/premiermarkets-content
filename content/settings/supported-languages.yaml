@@ -68,8 +68,3 @@ languages:
     nativeName: Italiano
     flag: /figma/it.svg
     enabled: true
-  - code: nl
-    name: Dutch
-    nativeName: Nederlands
-    flag: /figma/nl.svg
-    enabled: true
