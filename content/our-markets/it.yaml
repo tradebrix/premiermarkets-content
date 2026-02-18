@@ -1,0 +1,29 @@
+languageCode: it
+locale: it
+title: I Nostri Mercati
+subtitle: >-
+  Rimani informato con i dati che contano, su oltre 17.000 mercati. Ottieni le
+  ultime notizie, il sentiment dei trader, gli spread, l'azione dei prezzi e
+  molto altro.
+highlightedText: 17,000 mercati
+tabMostTraded: Più Tradati
+tabForex: Forex
+tabCommodities: Materie Prime
+tabIndices: Indici
+tabCryptocurrencies: Criptovalute
+tabShares: Azioni
+labelBuy: Compra
+labelSell: Vendi
+labelBuyers: Acquirenti
+labelSellers: Venditori
+labelHigh: Massimo
+labelLow: Minimo
+browseButtonText: Esplora tutti i mercati
+browseButtonLink: /markets
+buyButtonLink: https://secure.premiermarkets.com/register
+sellButtonLink: https://secure.premiermarkets.com/register
+disclaimerText: >-
+  I dati di mercato sono ritardati e potrebbero differire dalle condizioni in
+  tempo reale. Non devono essere utilizzati per decisioni di trading o
+  investimento.
+performanceDisclaimerText: Le performance passate non sono un indicatore affidabile dei risultati futuri
