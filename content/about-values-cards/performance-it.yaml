@@ -1,0 +1,7 @@
+cardSlug: performance-it
+locale: it
+title: Prestazioni
+subtitle: Strumenti, dati ed esecuzione progettati per un trading serio.
+backgroundColor: 'linear-gradient(152deg, #ED1D25 1.98%, #500407 96.02%)'
+backgroundImage: /images/aboutus/aboutus-value-performance.png
+displayOrder: 3
