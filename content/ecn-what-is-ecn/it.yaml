@@ -1,0 +1,21 @@
+languageCode: it
+locale: it
+title: Cos'è un Conto ECN?
+titleHighlight: Conto ECN?
+subtitle: >-
+  Un conto ECN (Electronic Communication Network) ti collega direttamente ai
+  principali fornitori di liquidità di livello superiore, permettendoti di
+  accedere a spread raw senza alcun markup.
+
+
+  Mentre i conti Standard incorporano le commissioni all'interno dello spread, i
+  conti ECN applicano una piccola commissione fissa e offrono prezzi di mercato
+  reali (raw), rendendoli la scelta preferita dai trader che cercano spread più
+  stretti ed esecuzione più rapida.
+buttonText: Apri Conto ECN
+buttonLink: https://secure.premiermarkets.com/register
+traderLabel: Trader
+bankLabel: Banche
+brokerLabel: Broker ECN
+companyLabel: Aziende
+providerLabel: Fornitori di Liquidità
