@@ -1,0 +1,24 @@
+languageCode: it
+locale: it
+title: Trading Ridefinito
+titleHighlight: Trading
+subtitle: >-
+  Controllo assoluto. Raw ECN è progettato per i trader che seguono la propria
+  strategia.
+buttonText: Apri Conto ECN
+buttonLink: https://secure.premiermarkets.com/register
+cards:
+  - icon: /icons/ecn/ecn-icon1.svg
+    title: Scalping e Hedging Consentiti
+    subtitle: Nessuna restrizione. Fai trading come preferisci.
+  - icon: /icons/ecn/ecn-icon2.svg
+    title: Compatibile con Expert Advisor (EA)
+    subtitle: Esegui strategie automatizzate con piena stabilità.
+  - icon: /icons/ecn/ecn-icon3.svg
+    title: Infrastruttura a Bassa Latenza
+    subtitle: Server co-locati per un'esecuzione fulminea.
+  - icon: /icons/ecn/ecn-icon4.svg
+    title: Condizioni Focalizzate sulla Precisione
+    subtitle: >-
+      Spread stretti, liquidità profonda e zero distrazioni, anche nei mercati
+      volatili.
