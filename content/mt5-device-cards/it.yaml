@@ -1,0 +1,19 @@
+languageCode: it
+locale: it
+cards:
+  - icon: /icons/mt5/mt5-mobile.svg
+    title: MT5 per Mobile/Tablet
+    subtitle: Scarica da AppStore o GooglePlay
+    linkTexts: >-
+      https://apps.apple.com/lb/app/metatrader-5/id413251709 MetaTrader
+      5,https://play.google.com/store/apps/details?id=net.metaquotes.metatrader5&hl=en
+  - icon: /icons/mt5/mt5-desktop.svg
+    title: MT5 per PC
+    subtitle: Scarica per Windows
+  - icon: /icons/mt5/mt5-mac.svg
+    title: MT5 per Mac
+    subtitle: Scarica per MacOS
+  - icon: /icons/mt5/mt5-terminal.svg
+    title: WebTerminal MT5
+    subtitle: Avvia WebTrader
+    linkTexts: https://webtrader.premiermarkets.com/terminal
