@@ -3,5 +3,6 @@ locale: en
 title: Premier MT5
 titleHighlight: Premier
 subtitle: Trade with precision on the industry's most advanced multi-asset CFD platform.
-appStoreLink: '#'
-playStoreLink: '#'
+appStoreLink: https://apps.apple.com/lb/app/metatrader-5/id413251709 MetaTrader 5
+playStoreLink: >-
+  https://play.google.com/store/apps/details?id=net.metaquotes.metatrader5&hl=en_GB
