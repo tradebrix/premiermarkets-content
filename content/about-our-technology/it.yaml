@@ -1,0 +1,14 @@
+languageCode: it
+locale: it
+titleHighlight: La Nostra
+title: Tecnologia e le Piattaforme
+subtitle: >-
+  Fai trading su MetaTrader 5 e Premier WebTrader, entrambi supportati da server
+  a bassa latenza, liquidità profonda e sincronizzati su tutti i dispositivi.
+primaryButtonText: Scopri MetaTrader 5
+primaryButtonLink: /platforms/mt5
+secondaryButtonText: Scopri Premier WebTrader
+secondaryButtonLink: /platforms/protrader
+caption: >-
+  Dall'automazione delle strategie al charting in tempo reale, le nostre
+  piattaforme sono costruite per precisione e costanza.
