@@ -36,3 +36,23 @@ cards:
     icon: /images/deposit-withdraw/deposit-payment-wite.png
     buttonText: Deposito
     buttonLink: https://secure.premiermarkets.com/register
+  - methodName: Cripto
+    description: Deposita o preleva cripto istantaneamente dal tuo wallet.
+    currencies: BTC, USDT, USDC, +30 altre
+    icon: /images/deposit-withdraw/deposit-payment-crypto.png
+    buttonText: Deposito
+    buttonLink: https://secure.premiermarkets.com/register
+  - methodName: Skrill
+    description: Deposita o preleva istantaneamente con Skrill.
+    processingTimeLimit: Istantaneo
+    currencies: USD
+    icon: /images/deposit-withdraw/deposit-payment-skrill.png
+    buttonText: Deposito
+    buttonLink: https://secure.premiermarkets.com/register
+  - methodName: Pix
+    description: Deposita e preleva in modo sicuro con Pix.
+    processingTimeLimit: Istantaneo
+    currencies: BRL
+    icon: /images/deposit-withdraw/deposit-payment-pix.png
+    buttonText: Deposito
+    buttonLink: https://secure.premiermarkets.com/register
