@@ -22,3 +22,17 @@ cards:
     icon: /images/deposit-withdraw/deposit-payment-citi.png
     buttonText: Deposito
     buttonLink: https://secure.premiermarkets.com/register
+  - methodName: Bank of America
+    description: Transazioni sicure tramite istituzioni bancarie di Tier 1.
+    processingTimeLimit: 3-5 Giorni Lavorativi
+    currencies: CHF
+    icon: /images/deposit-withdraw/deposit-payment-america.png
+    buttonText: Deposito
+    buttonLink: https://secure.premiermarkets.com/register
+  - methodName: Bonifico Bancario
+    description: Deposita o preleva istantaneamente con bonifico bancario.
+    processingTimeLimit: 3-5 Giorni Lavorativi
+    currencies: EUR
+    icon: /images/deposit-withdraw/deposit-payment-wite.png
+    buttonText: Deposito
+    buttonLink: https://secure.premiermarkets.com/register
