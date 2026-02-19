@@ -22,8 +22,8 @@ cards:
     icon: /images/deposit-withdraw/deposit-payment-citi.png
     buttonText: Deposit
     buttonLink: /sign-up
-  - methodName: Swiss Bank
-    description: Secure transactions via Tier 1 Swiss-based banking institutions.
+  - methodName: Bank of America
+    description: Secure transactions via Tier 1 banking institutions.
     processingTimeLimit: 3-5 Working Days
     currencies: CHF
     icon: /images/deposit-withdraw/deposit-payment-america.png
