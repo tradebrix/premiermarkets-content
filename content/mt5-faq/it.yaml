@@ -1,0 +1,48 @@
+languageCode: it
+locale: it
+title: Domande Frequenti
+titleHighlight: Frequenti
+items:
+  - question: Che cos'è MetaTrader 5 (MT5)?
+    answer: >-
+      MetaTrader 5 (MT5) è una piattaforma di trading professionale utilizzata
+      dai clienti di Premier Markets per fare trading su forex, materie prime,
+      indici, azioni e altri mercati. Offre charting avanzato, esecuzione rapida
+      e supporto per il trading automatizzato.
+  - question: Posso fare trading su MT5 dal mio telefono?
+    answer: >-
+      Sì. MT5 è disponibile su dispositivi iOS e Android, permettendoti di
+      aprire, gestire e chiudere operazioni, analizzare grafici e accedere al
+      tuo conto Premier Markets ovunque ti trovi.
+  - question: Come scarico MT5 con Premier Markets?
+    answer: >-
+      Puoi scaricare MT5 direttamente da Premier Markets per desktop, web e
+      dispositivi mobili. Una volta installato, basta effettuare il login con le
+      tue credenziali Premier Markets per iniziare a fare trading.
+  - question: Cosa succede alle mie operazioni se esco da MT5?
+    answer: >-
+      Le tue operazioni aperte rimangono attive e protette da eventuali ordini
+      stop-loss o take-profit impostati. Solo le strategie automatizzate (EA)
+      potrebbero interrompersi.
+  - question: Cosa rende MT5 diverso da MT4?
+    answer: >-
+      MT5 supporta più classi di asset, più tipi di ordini, timeframe aggiuntivi
+      e charting migliorato. Include anche il book di mercato (market depth) e
+      un'elaborazione più veloce, rendendolo ideale per il trading multi-asset.
+  - question: Cosa posso tradare su MT5?
+    answer: >-
+      Con MT5 su Premier Markets puoi fare trading di CFD su molteplici mercati,
+      inclusi forex, materie prime, indici, metalli e azioni. MT5 supporta il
+      trading multi-asset, offrendoti accesso a un'ampia gamma di strumenti da
+      un'unica piattaforma.
+  - question: Posso utilizzare Expert Advisors (EA) su MT5?
+    answer: >-
+      Sì. MT5 supporta il trading automatizzato tramite EA e indicatori
+      personalizzati. Gli strumenti creati per MT4 non sono compatibili e devono
+      essere ricodificati in MQL5 per funzionare su MT5.
+  - question: Come collego il mio conto Premier Markets a MT5?
+    answer: >-
+      Basta scaricare MT5 e accedere utilizzando le tue credenziali di login
+      Premier Markets. Apri un conto live o demo tramite Premier Markets,
+      finanziarlo e poi seleziona il server MT5 appropriato per iniziare a fare
+      trading.
