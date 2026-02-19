@@ -1,0 +1,17 @@
+languageCode: it
+locale: it
+cards:
+  - methodName: Carta di Credito / Debito
+    description: Deposita o preleva istantaneamente con carta di credito o debito.
+    processingTimeLimit: Istantaneo
+    currencies: USD, GBP, EUR
+    icon: /images/deposit-withdraw/deposit-payment-cards.png
+    buttonText: Deposito
+    buttonLink: https://secure.premiermarkets.com/register
+  - methodName: Google Pay / Apple Pay
+    description: Deposita e preleva istantaneamente utilizzando Google Pay o Apple Pay.
+    processingTimeLimit: Istantaneo
+    currencies: USD, EUR, GBP
+    icon: /images/deposit-withdraw/deposit-payment-googleapple.png
+    buttonText: Deposito
+    buttonLink: https://secure.premiermarkets.com/register
