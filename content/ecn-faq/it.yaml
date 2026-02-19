@@ -1,0 +1,36 @@
+languageCode: it
+locale: it
+title: Domande Frequenti
+titleHighlight: Domande
+items:
+  - question: Cos'è un conto ECN?
+    answer: >-
+      Un conto ECN ti offre accesso diretto ai principali fornitori di liquidità
+      di livello superiore senza intervento di dealing desk. I prezzi provengono
+      direttamente dal mercato, garantendo spread raw ed esecuzione rapida.
+  - question: Come funziona il pricing ECN?
+    answer: >-
+      I tuoi ordini vengono abbinati direttamente a banche e fornitori di
+      liquidità al miglior prezzo disponibile. Premier Markets non applica
+      markup, quindi fai trading con spread raw e una commissione trasparente
+      per operazione.
+  - question: Quali piattaforme posso utilizzare con il conto ECN?
+    answer: >-
+      Puoi fare trading utilizzando Premier WebTrader o MetaTrader 5 (MT5).
+      Entrambe le piattaforme supportano il pricing ECN, esecuzione rapida e
+      strumenti avanzati per trading manuale, automatizzato o ad alta velocità.
+  - question: Per chi è progettato il conto ECN?
+    answer: >-
+      Il conto ECN è ideale per trader attivi che necessitano di spread bassi,
+      esecuzione veloce e precisione, inclusi scalper, day trader e trader
+      algoritmici.
+  - question: Ci sono commissioni aggiuntive sui conti Premier ECN?
+    answer: >-
+      Sì. I conti ECN utilizzano spread raw con una piccola commissione per
+      operazione. Gli swap si applicano per le posizioni mantenute overnight,
+      con tutti i costi chiaramente visualizzati sulla piattaforma.
+  - question: Cosa posso tradare con il conto Premier ECN?
+    answer: >-
+      Puoi fare trading su forex, materie prime, indici e metalli con pricing di
+      livello istituzionale ed esecuzione a bassa latenza sia su Premier
+      WebTrader che su MT5.
