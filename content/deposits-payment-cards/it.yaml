@@ -15,3 +15,10 @@ cards:
     icon: /images/deposit-withdraw/deposit-payment-googleapple.png
     buttonText: Deposito
     buttonLink: https://secure.premiermarkets.com/register
+  - methodName: Citi Bank
+    description: Transazioni sicure tramite istituzioni bancarie di Tier 1.
+    processingTimeLimit: 3-5 Giorni Lavorativi
+    currencies: USD, GBP
+    icon: /images/deposit-withdraw/deposit-payment-citi.png
+    buttonText: Deposito
+    buttonLink: https://secure.premiermarkets.com/register
