@@ -1,0 +1,16 @@
+languageCode: it
+locale: it
+steps:
+  - count: '1'
+    title: Fondi
+    subtitle: Deposita un minimo di 10.000 USD sul tuo conto Premier Markets.
+  - count: '2'
+    title: Conferma
+    subtitle: >-
+      Assicurati che tutte le posizioni aperte siano chiuse prima di richiedere
+      l'upgrade.
+  - count: '3'
+    title: Richiedi
+    subtitle: >-
+      Contatta il tuo Account Manager o invia un'email a
+      support@premiermarkets.com per attivare il conto Premier ECN.
