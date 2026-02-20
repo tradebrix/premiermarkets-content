@@ -1,0 +1,57 @@
+languageCode: it
+locale: it
+title: Investi nelle aziende leader mondiali
+redTitle: Investi
+subtitle: >-
+  Accedi alle aziende con le migliori performance al mondo. Fai trading su
+  azioni globali con Premier Markets.
+startLink: https://secure.premiermarkets.com/login
+spreads: Spread a partire da 1.1 pip
+leverage: Leva fino a 1:1000
+support: Supporto 24/5
+background: /images/markets/markets-shares.png
+titleQuestion: Perché fare trading su azioni con Premier Markets?
+bannerText: Vivi lo standard Premier nel trading
+bannerRedText: Vivi
+mostTradedTitle: Le Azioni Più Tradate
+mostTradedHighlight: Azioni
+mostTradedSymbols:
+  - AAPL.US
+  - NVDA.US
+  - AMZN.US
+  - MSFT.US
+  - GOOGL.US
+  - FB.US
+faqTitle: Domande Frequenti
+faqTitleHighlight: Frequenti
+faqItems:
+  - question: Cos'è il trading di azioni?
+    answer: >-
+      Il trading di azioni ti permette di speculare sui movimenti di prezzo
+      delle aziende quotate in borsa. Con Premier Markets fai trading di CFD su
+      azioni, il che significa che puoi operare su prezzi in rialzo o in ribasso
+      senza possedere le azioni sottostanti o acquisire proprietà della società.
+  - question: Come faccio a tradare azioni?
+    answer: >-
+      Apri un conto di trading Premier Markets, scegli le azioni che vuoi
+      tradare, ricerca l'azienda e il suo settore, quindi apri la tua posizione.
+  - question: Quali sono le migliori azioni da tradare?
+    answer: >-
+      Dipende dal tuo stile di trading e dai tuoi obiettivi. Alcuni trader si
+      concentrano su grandi aziende molto tradate come Apple, Tesla, Microsoft,
+      Amazon, Alphabet o Meta, mentre altri cercano opportunità in growth stock
+      o mercati più volatili. Scegli azioni che corrispondano alla tua
+      tolleranza al rischio e alla tua strategia.
+  - question: Qual è la differenza tra investire e fare trading con CFD?
+    answer: >-
+      Investire significa acquistare e detenere azioni reali per una crescita a
+      lungo termine. Il trading con CFD si concentra sui movimenti di prezzo a
+      breve-medio termine senza acquisire proprietà. I CFD su azioni offrono
+      leva e la possibilità di operare sia su mercati in rialzo che in ribasso,
+      ma comportano un rischio più elevato.
+  - question: Quali sono i costi del trading di CFD su azioni?
+    answer: >-
+      Quando fai trading di CFD su azioni, i principali costi includono lo
+      spread e eventuali commissioni di finanziamento overnight per posizioni
+      mantenute dopo la chiusura del mercato. Non c'è imposta di bollo poiché
+      non stai acquistando l'azione sottostante.
