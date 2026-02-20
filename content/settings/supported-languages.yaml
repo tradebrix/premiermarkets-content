@@ -10,37 +10,37 @@ languages:
     nativeName: العربية
     flag: /figma/ae.svg
     emoji: 🇦🇪
-    enabled: true
+    enabled: false
   - code: ko
     name: '한국어 '
     nativeName: '한국어 '
     flag: /figma/kor.svg
     emoji: 🇰🇷
-    enabled: true
+    enabled: false
   - code: ms
     name: Melayu
     nativeName: Melayu
     flag: /figma/mys.svg
     emoji: 🇲🇾
-    enabled: true
+    enabled: false
   - code: br
     name: Português (Brasileiro)
     nativeName: Português (Brasileiro)
     flag: /figma/prt.svg
     emoji: 🇧🇷
-    enabled: true
+    enabled: false
   - code: es
     name: Español
     nativeName: Español
     flag: /figma/es.svg
     emoji: 🇪🇸
-    enabled: true
+    enabled: false
   - code: cn
     name: 简体中文
     nativeName: 简体中文
     flag: /figma/chn.svg
     emoji: 🇨🇳
-    enabled: true
+    enabled: false
   - code: id
     name: Indonesia
     nativeName: Indonesia
@@ -52,19 +52,19 @@ languages:
     nativeName: Tiếng Việt
     flag: /figma/vn.svg
     emoji: 🇻🇳
-    enabled: true
+    enabled: false
   - code: se
     name: Svenska
     nativeName: Svenska
     flag: /figma/se.svg
     emoji: 🇸🇪
-    enabled: true
+    enabled: false
   - code: fr
     name: Français
     nativeName: Français
     flag: /figma/fr.svg
     emoji: 🇫🇷
-    enabled: true
+    enabled: false
   - code: it
     name: Italiano
     nativeName: Italiano
