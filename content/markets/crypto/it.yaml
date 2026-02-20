@@ -1,0 +1,80 @@
+languageCode: it
+locale: it
+title: Fai trading sull'innovazione e sul futuro degli asset digitali
+redTitle: innovazione
+subtitle: >-
+  Le criptovalute stanno ridefinendo la finanza globale, offrendo volatilità,
+  innovazione e opportunità in egual misura.
+startLink: https://secure.premiermarkets.com/login
+spreads: Spread a partire da 1.5 pip
+leverage: Leva fino a 1:10
+support: Supporto 24/5
+background: /images/markets/markets-crypto.png
+titleQuestion: Perché fare trading su crypto con Premier Markets?
+bannerText: Vivi lo standard Premier nel trading
+bannerRedText: Vivi
+mostTradedTitle: Gli Asset Cripto Più Tradati
+mostTradedHighlight: Cripto
+mostTradedSymbols:
+  - BTCUSD
+  - ETHUSD
+  - XRPUSD
+  - SOLUSD
+  - ADAUSD
+faqTitle: Domande Frequenti
+faqTitleHighlight: Frequenti
+faqItems:
+  - question: Cosa sono le criptovalute?
+    answer: >-
+      Le criptovalute sono valute digitali che operano senza il controllo di
+      governi o banche centrali. Utilizzano la tecnologia di crittografia per
+      creare, proteggere e trasferire unità di valuta. Memorizzate in wallet
+      digitali, le criptovalute consentono transazioni peer-to-peer e sono
+      accettate da un numero crescente di commercianti online.
+  - question: >-
+      Ho bisogno di un wallet virtuale per fare trading di CFD su criptovalute
+      con Premier Markets?
+    answer: >-
+      No. Quando fai trading di CFD su criptovalute, speculi sui movimenti di
+      prezzo senza possedere l'asset sottostante, quindi non è necessario un
+      wallet digitale, chiavi private o archiviazione fisica.
+  - question: >-
+      Posso fare trading di CFD su criptovalute sulle piattaforme Premier
+      Markets?
+    answer: >-
+      I CFD su criptovalute sono disponibili sulle nostre piattaforme
+      supportate, MT5 e Premier WebTrader, che offrono accesso al trading
+      crypto. Queste sono distinte dagli exchange tradizionali basati su wallet
+      perché permettono di andare long o short senza detenere direttamente le
+      monete.
+  - question: I CFD su criptovalute sono negoziati con leva?
+    answer: >-
+      Sì. I CFD su criptovalute sono prodotti con leva, il che significa che i
+      trader devono solo depositare un margine per aprire una posizione più
+      grande. Sebbene la leva possa aumentare i potenziali rendimenti, amplifica
+      anche le perdite e deve essere usata con cautela.
+  - question: Posso shortare CFD su criptovalute con Premier Markets?
+    answer: >-
+      Sì. Con i CFD su criptovalute puoi operare in entrambe le direzioni. Puoi
+      andare long se credi che i prezzi saliranno o short se credi che
+      scenderanno, permettendoti di tradare sia in mercati rialzisti che
+      ribassisti.
+  - question: Come funzionano i CFD su criptovalute?
+    answer: >-
+      Quando fai trading di CFD su criptovalute, stipuli un contratto basato sul
+      movimento di prezzo di una criptovaluta tra l'apertura e la chiusura della
+      posizione.
+
+
+      -Nessun possesso: Non acquisti né conservi le monete reali.
+
+      -Leva: È richiesto solo una frazione del valore totale dell'operazione.
+
+      -Trading bidirezionale: Puoi operare su prezzi in rialzo o in ribasso.
+  - question: Quali sono le criptovalute più tradate?
+    answer: |-
+      Le criptovalute più attivamente tradate includono:
+
+      -Bitcoin (BTC)
+      -Ethereum (ETH)
+      -Ripple (XRP)
