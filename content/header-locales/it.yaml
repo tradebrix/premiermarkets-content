@@ -1,0 +1,14 @@
+languageCode: it
+locale: it
+userTypeSelector:
+  enabled: true
+  firstTypeName: Trader
+  secondTypeName: Partner
+  defaultType: Trader
+links:
+  - text: WebTrader
+    href: https://webtrader.premiermarkets.com/terminal
+  - text: Supporto
+    href: https://premiermarkets.com/en/contactus
+  - text: Apri Demo
+    href: https://secure.premiermarkets.com/register-demo
