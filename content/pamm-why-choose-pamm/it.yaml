@@ -1,0 +1,32 @@
+languageCode: it
+locale: it
+title: Perché scegliere un conto PAMM?
+titleHighlight: PAMM?
+subtitle: >-
+  I conti PAMM ti permettono di collegare il tuo capitale a un money manager
+  professionale e di raggruppare fondi con altri investitori per operazioni
+  potenzialmente più grandi e gestite in modo più efficiente. Premier Markets
+  fornisce l'infrastruttura PAMM e l'onboarding degli investitori, mentre il
+  Fund Manager mantiene il pieno controllo sulle decisioni di trading e
+  sull'esecuzione della strategia.
+cards:
+  - icon: \icons\pamm\icon-profit.svg
+    title: Allocazione istantanea dei profitti
+    subtitle: >-
+      Profitti e perdite dalle operazioni del manager vengono riflessi
+      automaticamente e proporzionalmente nel tuo conto.
+  - icon: \icons\pamm\icon-setup.svg
+    title: Nessuna configurazione tecnica
+    subtitle: >-
+      Non è necessario installare strumenti o copiare manualmente le operazioni.
+      Il sistema PAMM gestisce esecuzione e allocazione.
+  - icon: \icons\pamm\icon-trader.svg
+    title: Adatto a trader nuovi e attivi
+    subtitle: >-
+      Usa PAMM come modo hands-off per accedere ai mercati o come complemento al
+      tuo trading personale.
+  - icon: \icons\pamm\icon-structure.svg
+    title: Struttura commissionale chiara
+    subtitle: >-
+      Scegli tra una varietà di trader e strategie per diversificare il rischio
+      e migliorare i potenziali rendimenti.
