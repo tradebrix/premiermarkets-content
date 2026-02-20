@@ -26,9 +26,6 @@ sections:
             href: /cent
       - title: Platforms
         links:
-          - icon: /icons/navbar/icon-S1SU2E1.svg
-            title: Premier ProTrader
-            href: /protrader
           - icon: /icons/navbar/icon-S1SU2E2.svg
             title: MetaTrader 5
             href: /mt5
@@ -71,9 +68,6 @@ sections:
   - title: Promotions
     subsections:
       - links:
-          - icon: /icons/navbar/icon-S3SU1E1.svg
-            title: Premier Club
-            href: /club
           - icon: ' /icons/navbar/icon-promotion.svg'
             title: 100% Welcome Bonus
             href: /promotion
@@ -94,6 +88,7 @@ sections:
             href: /contactus
 partnerships:
   title: Partnerships
+  href: https://partners.premiermarkets.com/en
 partnersLinks:
   - title: Introducing Brokers
     href: https://partners.premiermarkets.com/broker
