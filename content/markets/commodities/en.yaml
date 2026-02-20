@@ -3,7 +3,7 @@ locale: en
 title: Capture opportunities in global commodities
 redTitle: opportunities
 subtitle: Access oil, gas, and agricultural commodities with competitive pricing.
-startLink: trading/commodities
+startLink: https://secure.premiermarkets.com/register
 spreads: Spreads from 1.1 Pips
 leverage: Leverage up to 1:500
 support: 24/5 support
@@ -58,13 +58,14 @@ faqItems:
     answer: >-
       Commonly traded markets include:
 
-      Oil & Natural Gas: driven by supply, demand and geopolitics
 
-      Gold & Silver: safe-haven and inflation-hedge metals
+      -Oil & Natural Gas: driven by supply, demand and geopolitics
 
-      Corn, Wheat, Coffee, Sugar: affected by weather and harvest cycles
+      -Gold & Silver: safe-haven and inflation-hedge metals
 
-      Copper & Platinum: tied to manufacturing and economic growth
+      -Corn, Wheat, Coffee, Sugar: affected by weather and harvest cycles
+
+      -Copper & Platinum: tied to manufacturing and economic growth
 
 
       These markets are favored for their liquidity, clear pricing and
