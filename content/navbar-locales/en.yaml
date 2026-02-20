@@ -82,7 +82,7 @@ sections:
       - links:
           - icon: /icons/navbar/icon-S4SU1E1.svg
             title: About Us
-            href: /about
+            href: https://premiermarkets.com/en/about
           - icon: /icons/navbar/icon-S4SU1E2.svg
             title: Security of Funds
             href: /security-of-funds
