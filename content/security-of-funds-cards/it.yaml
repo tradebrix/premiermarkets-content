@@ -8,3 +8,24 @@ cards:
       pagamento, sono crittografate e protette da sistemi di sicurezza
       multilivello.
     imageSrc: \images\securityOfFunds\security-feature2.png
+  - tag: Sicurezza
+    title: Transazioni Sicure
+    description: >-
+      Ogni deposito e prelievo viene elaborato tramite fornitori di servizi di
+      pagamento verificati, con sistemi di prevenzione frodi e monitoraggio
+      delle transazioni in tempo reale.
+    imageSrc: \images\securityOfFunds\security-feature3.png
+  - tag: Fiducia
+    title: Partner Bancari Affidabili
+    description: >-
+      Collaboriamo con istituzioni bancarie di prim'ordine e regolamentate in
+      giurisdizioni affidabili, garantendo che i tuoi depositi e prelievi siano
+      elaborati in modo sicuro ed efficiente.
+    imageSrc: \images\securityOfFunds\security-feature4.png
+  - tag: Affidabilità
+    title: Monitoraggio Continuo del Sistema
+    description: >-
+      I nostri server sono ospitati in data center sicuri con supervisione del
+      sistema 24/7, garantendo uptime costante e accesso al trading
+      ininterrotto.
+    imageSrc: \images\securityOfFunds\security-feature5.png
