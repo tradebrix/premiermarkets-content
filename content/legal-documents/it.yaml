@@ -7,4 +7,15 @@ subtitle: >-
   contatta support@premiermarkets.com
 subtitleHighlight: support@premiermarkets.com
 subtitleLink: mailto:support@premiermarkets.com
-cards: []
+cards:
+  - title: Contratto con il Cliente
+  - title: Politica sulla Privacy
+    link: https://pdflink.to/premier-markets-privacy-policy/
+  - title: Politica Informativa sui Rischi
+    link: https://pdflink.to/risk-disclosurere-policy/
+  - title: Politica Gestione dei Reclami
+    link: https://pdflink.to/complaints-handling/
+  - title: Politica Fair Usage
+    link: https://pdflink.to/fair-usage-policy/
+  - title: Politica sui Cookie
+    link: https://pdflink.to/cookies-policy/
