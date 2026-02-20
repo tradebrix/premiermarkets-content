@@ -3,7 +3,7 @@ locale: it
 title: Entra nello standard Premier di trading
 highlightedWord: Premier
 ctaButtonText: Start Trading
-ctaButtonLink: https://secure.premiermarkets.com/register
+ctaButtonLink: https://secure.premiermarkets.com/register?lang=it
 steps:
   - count: '1'
     title: Registrati
