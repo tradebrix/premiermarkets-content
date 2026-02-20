@@ -1,0 +1,10 @@
+languageCode: it
+locale: it
+cards:
+  - tag: Protezione
+    title: Protezione Avanzata dei Dati
+    description: >-
+      Tutte le informazioni sensibili, inclusi dati personali e dettagli di
+      pagamento, sono crittografate e protette da sistemi di sicurezza
+      multilivello.
+    imageSrc: \images\securityOfFunds\security-feature2.png
