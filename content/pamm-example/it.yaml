@@ -1,0 +1,51 @@
+languageCode: it
+locale: it
+title: Un semplice esempio PAMM
+titleHighlight: PAMM
+subtitle: >-
+  Questo esempio mostra come profitti e commissioni di performance vengono
+  condivisi tra investitori e money manager.
+leftCard:
+  tag: Investor A
+  currency: USD
+  value: 50,000
+centerCard:
+  tag: Investor B
+  currency: USD
+  value: 30,000
+rightCard:
+  tag: Investor C
+  currency: USD
+  value: 20,000
+cardsCaption: >-
+  Durante il periodo il manager genera un profitto del 10% sul pool. Profitto
+  totale: 10,000 USD
+cardsCaptionBoldParts:
+  - 10,000
+containerText: >-
+  La commissione di performance concordata è il 20 percento del profitto.
+  Commissione di performance al manager: 2,000 USD Profitto netto agli
+  investitori: 8,000 USD
+containerBoldParts:
+  - 2,000
+  - 8,000
+outsideText: >-
+  Il profitto netto viene quindi allocato in base alla quota di ciascun
+  investitore nel pool:
+outsideBoldParts: []
+allocationRows:
+  - tag: Investor A
+    text: (50 percento del pool) riceve 4,000 USD
+    boldPart: 4,000
+    containerColor: '#383838'
+  - tag: Investor B
+    text: (30 percento del pool) riceve 2,400 USD
+    boldPart: 2,400
+    containerColor: '#B89146'
+  - tag: Investor C
+    text: (20 percento del pool) riceve 1,600 USD
+    boldPart: 1,600
+    containerColor: '#D5252C'
+finalNote: >-
+  Il saldo del conto di ciascun investitore viene aggiornato automaticamente e
+  tutti i dettagli sono visibili nell'estratto conto.
