@@ -1,0 +1,117 @@
+languageCode: it
+locale: it
+title: Fai trading sui metalli con stabilità e forza
+redTitle: metalli
+subtitle: >-
+  I metalli preziosi rimangono un rifugio sicuro affidabile nei mercati
+  volatili. Fai trading su oro, argento e altro con liquidità istituzionale,
+  prezzi trasparenti ed esecuzione precisa.
+startLink: https://secure.premiermarkets.com/login
+spreads: Spread a partire da 0.2 pip
+leverage: Leva fino a 1:1000
+support: Supporto 24/5
+background: /images/markets/markets-metals-bg.png
+titleQuestion: Perché fare trading sui metalli con Premier Markets?
+bannerText: Vivi lo standard Premier nel trading
+bannerRedText: Vivi
+mostTradedTitle: I Metalli Più Tradati
+mostTradedHighlight: Metalli
+mostTradedSymbols:
+  - XAUUSD
+  - XPTUSD
+  - XAGUSD
+faqTitle: Domande Frequenti
+faqTitleHighlight: Frequenti
+faqItems:
+  - question: Come si tradano i metalli?
+    answer: >-
+      I metalli possono essere tradati in diverse forme a seconda del mercato.
+      Oro e argento sono tipicamente tradati come strumenti spot, che riflettono
+      i prezzi di mercato attuali per regolamento immediato. Altri metalli, come
+      rame, palladio e platino, sono spesso tradati tramite CFD futures, che
+      permettono di speculare sui prezzi futuri.
+  - question: Si possono tradare i metalli senza possedere l'asset fisico?
+    answer: >-
+      Sì. I trader possono speculare sui movimenti di prezzo in modo digitale
+      utilizzando strumenti come CFD, ETF o futures, che offrono esposizione ai
+      prezzi dei metalli senza necessità di possesso fisico, stoccaggio o
+      assicurazione.
+  - question: I CFD futures sui metalli scadono?
+    answer: >-
+      Sì. I CFD futures sui metalli hanno date di scadenza programmate. Alla
+      scadenza del contratto, qualsiasi posizione aperta si chiude
+      automaticamente. Man mano che si avvicina la scadenza, il ciclo
+      contrattuale successivo diventa disponibile per il trading.
+  - question: Quali sono i simboli per oro e argento spot?
+    answer: >-
+      I metalli spot sono quotati contro le principali valute. Esempi comuni
+      includono:
+
+
+      -Oro (Gold XAU): XAU/USD, XAU/EUR, XAU/GBP, XAU/CHF, XAU/JPY, XAU/AUD
+
+      -Argento (Silver XAG): XAG/USD
+  - question: C'è una data di scadenza per oro e argento spot?
+    answer: >-
+      No. I metalli spot non scadono. Finché sono soddisfatti i requisiti di
+      margine, le posizioni rimangono aperte fino a quando il trader decide di
+      chiuderle.
+  - question: Quali sono gli orari di trading per i metalli?
+    answer: >-
+      I mercati dei metalli sono generalmente aperti 23 ore al giorno, 5 giorni
+      alla settimana, con una breve pausa giornaliera per manutenzione. Gli
+      orari di trading possono seguire anche le chiusure per festività delle
+      borse globali.
+  - question: Posso mantenere posizioni sui metalli durante il weekend e le festività?
+    answer: >-
+      Sì, ma si applicano commissioni di rollover, simili a quelle del forex,
+      quando si mantengono posizioni dopo la chiusura del mercato o durante
+      giorni non di trading.
+  - question: Quali metalli posso tradare con Premier Markets?
+    answer: >-
+      I trader possono accedere a una gamma di metalli preziosi e industriali,
+      tra cui:
+
+
+      -Oro (Gold)
+
+      -Argento (Silver)
+
+      -Platino (Platinum)
+
+      -Palladio (Palladium)
+
+      -Rame (Copper)
+  - question: Come viene calcolato il margine per i metalli?
+    answer: >-
+      I requisiti di margine variano in base al metallo specifico, alle
+      condizioni di mercato e allo strumento di trading selezionato. I trader
+      devono sempre verificare i tassi di margine live indicati sulla
+      piattaforma prima di aprire una posizione. Puoi sempre consultare i nostri
+      calcolatori di trading per pianificare meglio le tue operazioni.
+  - question: Cosa influenza il prezzo dei metalli?
+    answer: >-
+      I prezzi dei metalli sono influenzati dalla dinamica di domanda e offerta,
+      dalla produzione mineraria, dagli sviluppi geopolitici e da fattori
+      macroeconomici quali: 
+
+
+      -Movimenti del dollaro USA (la maggior parte dei metalli è quotata in USD)
+
+      -Politiche delle banche centrali e tassi di interesse
+
+      -Sentiment di mercato (domanda di rifugio sicuro in periodi di incertezza)
+
+      -Rilasci di dati economici e tendenze del rischio globale
+  - question: Quali metalli sono i migliori da tradare?
+    answer: >-
+      Oro e argento sono i più comunemente tradati grazie alla loro alta
+      liquidità e alla reputazione di asset rifugio. L'argento tende a mostrare
+      oscillazioni di prezzo maggiori rispetto all'oro, il che può attrarre
+      trader in cerca di volatilità.
+  - question: I metalli proteggono dall'inflazione?
+    answer: >-
+      Storicamente, oro e argento sono stati utilizzati come hedge contro
+      l'inflazione, essendo spesso considerati depositi di valore quando il
+      potere d'acquisto diminuisce. Tuttavia, le loro performance possono ancora
+      fluttuare in base alle condizioni di mercato.
