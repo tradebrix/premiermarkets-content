@@ -3,7 +3,7 @@ locale: en
 bannerTitle: Step Into the Premier Trading Standard
 bannerRedTitle: Step Into
 bannerButtonText: Start Now
-bannerButtonLink: '#'
+bannerButtonLink: https://secure.premiermarkets.com/register
 faqTitle: 'Frequently Asked '
 faqTitleHighlight: Questions
 faqItems:
