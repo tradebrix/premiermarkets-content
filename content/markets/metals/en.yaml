@@ -6,7 +6,7 @@ subtitle: >-
   Precious metals remain a trusted safe haven in volatile markets. Trade gold,
   silver, and more with institutional liquidity, transparent pricing, and
   precise execution.
-startLink: trading/metals
+startLink: https://secure.premiermarkets.com/register
 spreads: Spreads from 0.2 Pips
 leverage: Leverage up to 1:1000
 support: 24/5 support
@@ -19,6 +19,7 @@ mostTradedHighlight: Metals
 mostTradedSymbols:
   - XAUUSD
   - XPTUSD
+  - XAGUSD
 faqTitle: Frequently Asked Questions
 faqTitleHighlight: Questions
 faqItems:
@@ -44,8 +45,10 @@ faqItems:
   - question: What are the symbols for spot gold and silver?
     answer: |-
       Spot metals are quoted against major currencies. Common examples include:
-      Gold (XAU): XAU/USD, XAU/EUR, XAU/GBP, XAU/CHF, XAU/JPY, XAU/AUD
-      Silver (XAG): XAG/USD
+
+      -Gold (XAU): XAU/USD, XAU/EUR, XAU/GBP, XAU/CHF, XAU/JPY, XAU/AUD
+
+      -Silver (XAG): XAG/USD
   - question: Is there an expiration date on spot gold and silver?
     answer: >-
       No. Spot metals do not expire. As long as margin requirements are met,
@@ -62,11 +65,12 @@ faqItems:
   - question: What metals can I trade with Premier Markets?
     answer: |-
       Traders can access a range of precious and industrial metals, including:
-      Gold (XAU)
-      Silver (XAG)
-      Platinum
-      Palladium
-      Copper
+
+      -Gold 
+      -Silver 
+      -Platinum
+      -Palladium
+      -Copper
   - question: How is margin calculated for metals?
     answer: >-
       Margin requirements differ based on the specific metal, market conditions
@@ -78,13 +82,14 @@ faqItems:
       Metal prices are influenced by supply and demand dynamics, mining output,
       geopolitical developments and macroeconomic factors such as:
 
-      US dollar movements (most metals are priced in USD)
 
-      Central bank policies and interest rates
+      -US dollar movements (most metals are priced in USD)
 
-      Market sentiment (safe-haven demand during uncertainty)
+      -Central bank policies and interest rates
 
-      Economic data releases and global risk trends
+      -Market sentiment (safe-haven demand during uncertainty)
+
+      -Economic data releases and global risk trends
   - question: Which metals are best to trade?
     answer: >-
       Gold and silver are the most commonly traded due to their high liquidity
