@@ -1,0 +1,77 @@
+languageCode: it
+locale: it
+title: Cattura opportunità nelle materie prime globali
+redTitle: materie
+subtitle: Accedi a petrolio, gas e materie prime agricole con prezzi competitivi.
+startLink: https://secure.premiermarkets.com/login
+spreads: Spread a partire da 1.1 pip
+leverage: Leva fino a 1:500
+support: Supporto 24/5
+background: /images/markets/markets-commodities.png
+titleQuestion: Perché fare trading su materie prime con Premier Markets?
+bannerText: Vivi lo standard Premier nel trading
+bannerRedText: Vivi
+mostTradedTitle: Le Materie Prime Più Tradate
+mostTradedHighlight: Materie
+mostTradedSymbols:
+  - WTI
+  - COCOA
+  - BRENT
+  - SOYBEAN
+  - COFFEE
+faqTitle: Domande Frequenti
+faqTitleHighlight: Frequenti
+faqItems:
+  - question: Cos'è il trading di materie prime?
+    answer: >-
+      Le materie prime sono materiali naturali standardizzati utilizzati in
+      energia, alimentazione e produzione industriale. Fare trading su di esse
+      ti permette di speculare sui movimenti di prezzo di asset come metalli,
+      petrolio, grano o zucchero. Con Premier Markets fai trading su questi
+      prezzi in modo digitale senza possedere l'asset fisico.
+  - question: Quali sono i vantaggi del trading di materie prime?
+    answer: >-
+      Le materie prime aggiungono diversificazione e possono aiutare a
+      proteggersi dall'inflazione, poiché asset come oro e petrolio spesso
+      mantengono valore in periodi di incertezza. I loro prezzi si muovono in
+      base a domanda e offerta globale, creando mercati liquidi e trasparenti. I
+      trader possono trovare opportunità in settori influenzati da geopolitica,
+      clima, tendenze economiche e cambiamenti nei consumi.
+  - question: Cosa sono i CFD su materie prime?
+    answer: >-
+      Un CFD su materie prime ti permette di fare trading sui movimenti di
+      prezzo senza possedere l'asset sottostante. Profitto o perdita si basa
+      sulla differenza tra prezzo di apertura e chiusura.
+  - question: Quando scadono gli ordini CFD su materie prime?
+    answer: >-
+      I CFD su futures scadono secondo il mese del contratto e si chiudono
+      automaticamente. I CFD cash non scadono e vengono rollover con un
+      aggiustamento di prezzo.
+  - question: Qual è il margine per il trading di materie prime?
+    answer: >-
+      Il margine dipende dalla materia prima e dalle condizioni di mercato. I
+      trader dovrebbero verificare i tassi di margine live sulla piattaforma e
+      utilizzare i calcolatori Premier Markets per la pianificazione.
+  - question: >-
+      Quali cambiamenti di mercato possono influenzare le operazioni sul
+      petrolio?
+    answer: >-
+      I prezzi del petrolio reagiscono fortemente ai livelli di offerta,
+      decisioni OPEC, eventi geopolitici, dati sulle scorte, domanda energetica
+      e principali annunci economici.
+  - question: Quali sono le materie prime più popolari da tradare?
+    answer: >-
+      I mercati più comunemente tradati includono:
+
+
+      -Petrolio e Gas Naturale: guidati da offerta, domanda e geopolitica
+
+      -Oro e Argento: metalli rifugio e hedge contro l'inflazione
+
+      -Mais, Grano, Caffè, Zucchero: influenzati da clima e cicli di raccolto
+
+      -Rame e Platino: legati a produzione manifatturiera e crescita economica
+
+
+      Questi mercati sono preferiti per la loro liquidità, prezzi chiari e
+      sensibilità alle tendenze globali.
