@@ -1,0 +1,25 @@
+languageCode: it
+locale: it
+title: Fai Trading su Forex
+redTitle: Forex
+subtitle: Accedi al più grande mercato finanziario del mondo.
+startLink: https://secure.premiermarkets.com/login
+spreads: Spread a partire da 0.0 pip
+leverage: Leva fino a 1:500
+support: Supporto 24/5
+background: /images/markets/markets-forex-bg.png
+titleQuestion: Perché fare trading su forex con Premier Markets?
+bannerText: Vivi lo standard Premier nel trading
+bannerRedText: Vivi
+mostTradedTitle: Le Coppie Forex Più Tradate
+mostTradedHighlight: Coppie Forex
+mostTradedSymbols:
+  - EURUSD
+  - GBPUSD
+  - USDJPY
+  - GBPJPY
+  - USDCAD
+  - AUDUSD
+faqTitle: Frequently Asked Questions
+faqTitleHighlight: Questions
+faqItems: []
