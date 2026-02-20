@@ -6,7 +6,9 @@ userTypeSelector:
   secondTypeName: Partner
   defaultType: Trader
 links:
-  - text: ProTrader
-    href: /protrader
+  - text: WebTrader
+    href: https://webtrader.premiermarkets.com/terminal
   - text: Support
+    href: https://premiermarkets.com/en/contactus
   - text: Open Demo
+    href: https://secure.premiermarkets.com/register-demo
