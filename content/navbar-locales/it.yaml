@@ -1,0 +1,100 @@
+languageCode: it
+locale: it
+loginButtonText: Accedi
+registerButtonText: Registrati
+loginUrl: https://secure.premiermarkets.com/login
+registerUrl: https://secure.premiermarkets.com/register
+sections:
+  - title: Trading
+    subsections:
+      - title: Inizia a Fare Trading
+        links:
+          - icon: /icons/navbar/icon-S1SU1E1.svg
+            title: Perché fare trading con Premier?
+            href: /trading/why-trade-with-premier
+          - icon: /icons/navbar/icon-S1SU1E2.svg
+            title: Tipologie di Conto
+            href: /trading/accounts
+          - icon: /icons/navbar/icon-S1SU1E3.svg
+            title: Premier ECN
+            href: ecn
+          - icon: /icons/navbar/icon-S1SU1E4.svg
+            title: Depositi e Prelievi
+            href: /deposit-withdraw
+          - icon: ' /icons/navbar/icon-cent.svg'
+            title: Conto Cent
+            href: /cent
+      - title: Piattaforme
+        links:
+          - icon: /icons/navbar/icon-S1SU2E2.svg
+            title: MetaTrader 5
+            href: /mt5
+          - icon: /icons/navbar/icon-S1SU2E3.svg
+            title: PAMM
+            href: /pamm
+          - icon: ' /icons/navbar/icon-copy-trading.svg'
+            title: Copy Trade
+            href: /copy-trading
+      - title: Mercati
+        links:
+          - icon: /icons/navbar/icon-S1SU3E1.svg
+            title: Forex
+            href: /markets/forex
+          - icon: /icons/navbar/icon-S1SU3E2.svg
+            title: Metalli
+            href: /markets/metals
+          - icon: /icons/navbar/icon-S1SU3E3.svg
+            title: Azioni
+            href: /markets/shares
+          - icon: /icons/navbar/icon-S1SU3E4.svg
+            title: Materie Prime
+            href: /markets/commodities
+          - icon: /icons/navbar/icon-S1SU3E5.svg
+            title: Indici
+            href: /markets/indices
+          - icon: /icons/navbar/icon-S1SU3E6.svg
+            title: CFD su Cripto
+            href: /markets/crypto
+  - title: Scopri
+    subsections:
+      - title: Strumenti di Trading
+        links:
+          - icon: /icons/navbar/icon-S2SU1E1.svg
+            title: Calendario Economico
+            href: https://premiermarkets.com/en/economic-calendar
+          - icon: /icons/navbar/icon-S2SU1E2.svg
+            title: Calcolatore di Trading
+            href: https://secure.premiermarkets.com/register
+  - title: Promozioni
+    subsections:
+      - links:
+          - icon: ' /icons/navbar/icon-promotion.svg'
+            title: Bonus di Benvenuto 100%
+            href: /promotion
+  - title: Azienda
+    subsections:
+      - links:
+          - icon: /icons/navbar/icon-S4SU1E1.svg
+            title: Chi Siamo
+            href: /about
+          - icon: /icons/navbar/icon-S4SU1E2.svg
+            title: Sicurezza dei Fondi
+            href: /security-of-funds
+          - icon: /icons/navbar/icon-S4SU1E3.svg
+            title: Carriere
+            href: /careers
+          - icon: /icons/navbar/icon-S4SU1E4.svg
+            title: Contattaci
+            href: /contactus
+partnerships:
+  title: Partenariati
+  href: https://partners.premiermarkets.com/it
+partnersLinks:
+  - title: Introducing Brokers
+    href: https://partners.premiermarkets.com/broker
+  - title: Affiliati CPA
+    href: https://partners.premiermarkets.com/cpa-affiliates
+  - title: Modello Ibrido
+    href: https://partners.premiermarkets.com/hybrid
+  - title: Fund Managers
+    href: https://partners.premiermarkets.com/fund
