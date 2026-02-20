@@ -1,0 +1,33 @@
+languageCode: it
+locale: en
+bannerTitle: Entra nello Standard Premier di Trading
+bannerRedTitle: Entra
+bannerButtonText: Inizia Ora
+bannerButtonLink: https://secure.premiermarkets.com/register
+faqTitle: Domande Frequenti
+faqTitleHighlight: Frequenti
+faqItems:
+  - question: Come sono protetti i miei fondi presso Premier Markets?
+    answer: >-
+      I fondi dei clienti sono custoditi in conti completamente segregati presso
+      partner bancari di prim'ordine. Questo mantiene il tuo denaro separato dal
+      capitale operativo di Premier Markets e garantisce che non possa essere
+      utilizzato per scopi aziendali o attività rischiose.
+  - question: Come protegge Premier Markets le mie informazioni personali e finanziarie?
+    answer: >-
+      Premier Markets utilizza crittografia avanzata dei dati, infrastruttura
+      server sicura e protocolli di privacy rigorosi per salvaguardare tutte le
+      informazioni personali e finanziarie. I dati sensibili, come depositi,
+      prelievi e attività del conto, sono protetti con tecnologie di sicurezza
+      standard del settore.
+  - question: Dove è custodito il mio denaro?
+    answer: >-
+      Tutti i depositi dei clienti sono collocati in conti segregati presso
+      banche rinomate e riconosciute a livello globale, selezionate per la loro
+      stabilità, standard di sicurezza e supervisione regolamentare.
+  - question: Le mie transazioni e pagamenti sono sicuri?
+    answer: >-
+      Sì. Depositi, prelievi e trasferimenti interni vengono elaborati
+      attraverso canali sicuri e crittografati. Premier Markets collabora
+      esclusivamente con fornitori di pagamento affidabili e regolamentati per
+      garantire la sicurezza delle transazioni.
