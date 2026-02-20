@@ -1,0 +1,24 @@
+languageCode: it
+locale: it
+title: Come Funziona PAMM?
+titleHighlight: PAMM?
+subtitle: Semplice da iniziare. Completamente automatizzato in background.
+imageCaption: >-
+  Il manager può fare trading per tuo conto attraverso la struttura PAMM, ma non
+  può depositare, prelevare o trasferire fondi dal tuo conto.
+cards:
+  - tag: Passo 1
+    title: Scegli il tuo manager
+    description: >-
+      Esplora i money manager disponibili e analizza la loro storia, stile e
+      profilo di rischio.
+  - tag: Passo 2
+    title: Alloca il tuo investimento
+    description: >-
+      Decidi quanto allocare e collega il tuo conto di trading al manager
+      selezionato. I tuoi fondi rimangono nel tuo conto personale.
+  - tag: Passo 3
+    title: Monitora e adatta
+    description: >-
+      Controlla le performance in tempo reale, aggiungi o riduci fondi, o cambia
+      manager in base ai tuoi obiettivi e alla tua tolleranza al rischio.
