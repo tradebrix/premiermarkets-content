@@ -1,0 +1,22 @@
+languageCode: it
+locale: it
+title: Hai bisogno di aiuto? Siamo sempre pronti ad assisterti
+titleHighlight: aiuto
+subtitle: Condividi la tua domanda e scegli come preferisci che ti contattiamo.
+firstNameLabel: Nome
+firstNameHint: Nome
+lastNameLabel: Cognome
+lastNameHint: Cognome
+emailLabel: Email
+emailHint: Inserisci la tua email
+phoneLabel: Numero di telefono
+messageLabel: Messaggio
+messageHint: Lasciaci un messaggio...
+contactChoicesLabel: Metodo di contatto preferito
+phoneChoiceLabel: Richiamami
+whatsappChoiceLabel: WhatsApp
+emailChoiceLabel: Email
+privacyText: Accetti la nostra Politica sulla Privacy.
+privacyHighlight: Politica sulla Privacy.
+privacyLink: https://pdflink.to/premier-markets-privacy-policy/
+submitButtonText: Invia Messaggio
