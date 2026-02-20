@@ -20,8 +20,8 @@ labelHigh: Massimo
 labelLow: Minimo
 browseButtonText: Esplora tutti i mercati
 browseButtonLink: /markets
-buyButtonLink: https://secure.premiermarkets.com/register
-sellButtonLink: https://secure.premiermarkets.com/register
+buyButtonLink: https://secure.premiermarkets.com/login?lang=it
+sellButtonLink: https://secure.premiermarkets.com/login?lang=it
 disclaimerText: >-
   I dati di mercato sono ritardati e potrebbero differire dalle condizioni in
   tempo reale. Non devono essere utilizzati per decisioni di trading o
