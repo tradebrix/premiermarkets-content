@@ -5,7 +5,7 @@ redTitle: world's
 subtitle: >-
   Access the world's top-performing companies.Trade global shares with Premier
   Markets.
-startLink: trading/shares
+startLink: https://secure.premiermarkets.com/register
 spreads: Spreads from 1.1 Pips
 leverage: Leverage up to 1:1000
 support: 24/5 support
@@ -25,7 +25,7 @@ mostTradedSymbols:
 faqTitle: Frequently Asked Questions
 faqTitleHighlight: Questions
 faqItems:
-  - question: What is share trading with Premier Markets?
+  - question: What is shares trading?
     answer: >-
       Share trading lets you speculate on the price movements of publicly listed
       companies. With Premier Markets, you trade share CFDs, meaning you can
