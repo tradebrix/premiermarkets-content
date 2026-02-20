@@ -1,0 +1,24 @@
+languageCode: it
+locale: it
+title: Progettato per gli investitori
+titleHighlight: investitori
+subtitle: >-
+  Premier PAMM è progettato per permetterti di investire con professionisti
+  mantenendo trasparenza, controllo e reportistica chiara dalla tua parte.
+cards:
+  - title: Monitoraggio delle performance in tempo reale
+    subtitle: >-
+      Segui le posizioni aperte, la storia e i rendimenti del manager scelto da
+      un unico dashboard semplice e facile da leggere.
+    image: /images/pamm/pamm-card1.png
+  - title: Allocazione flessibile del capitale
+    subtitle: >-
+      Adatta le allocazioni di investimento in modo efficiente mantenendo la
+      trasparenza sul tuo portafoglio.
+    image: /images/pamm/pamm-card2.png
+  - title: Visibilità completa del conto
+    subtitle: >-
+      Monitora saldi, equity, profitti e perdite, e deduzioni delle commissioni
+      direttamente nel tuo conto Premier, con estratti conto scaricabili per i
+      tuoi archivi.
+    image: /images/pamm/pamm-card3.png
