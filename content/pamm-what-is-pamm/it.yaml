@@ -1,0 +1,18 @@
+languageCode: it
+locale: it
+title: Cos'è un Conto PAMM?
+titleHighlight: PAMM
+subtitle: >-
+  Un conto PAMM ti permette di allocare fondi a un money manager professionale
+  invece di fare trading in autonomia. Scegli un manager e decidi quanto
+  investire. Ogni volta che il manager esegue un'operazione, il sistema PAMM
+  applica la stessa strategia al tuo conto in proporzione alla tua allocazione e
+  aggiorna automaticamente il tuo saldo.
+bullets:
+  - text: Scegli un money manager e decidi quanto allocare.
+  - text: >-
+      Il sistema PAMM assegna ogni operazione, profitto e perdita al tuo conto
+      in base alla tua percentuale del pool.
+  - text: >-
+      Il manager fa trading su un unico conto master utilizzando la propria
+      strategia e approccio al rischio.
