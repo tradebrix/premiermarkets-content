@@ -1,0 +1,81 @@
+languageCode: it
+locale: it
+title: Cattura interi movimenti di mercato con una singola posizione
+redTitle: Cattura
+subtitle: >-
+  Fai trading sui principali indici come S&P 500, NASDAQ, FTSE e DAX con Premier
+  Markets
+startLink: https://secure.premiermarkets.com/login
+spreads: Spread a partire da 0.5 pip
+leverage: Leva fino a 1:200
+support: Supporto 24/5
+background: /images/markets/markets-indices.png
+titleQuestion: Perché fare trading su indici con Premier Markets?
+bannerText: Vivi lo standard Premier nel trading
+bannerRedText: Vivi
+mostTradedTitle: Gli Indici Più Tradati
+mostTradedHighlight: Indici
+mostTradedSymbols:
+  - US100
+  - US30
+  - UK100
+  - ITA40
+  - GER40
+  - JAP225
+faqTitle: Domande Frequenti
+faqTitleHighlight: Frequenti
+faqItems:
+  - question: Cosa sono gli indici nel trading?
+    answer: >-
+      Gli indici misurano il movimento di prezzo di un gruppo selezionato di
+      asset, tipicamente azioni, ma possono includere anche obbligazioni o
+      materie prime. Offrono una visione complessiva delle performance di un
+      mercato, settore o economia, rendendoli un benchmark chiave per i trader.
+  - question: Come vengono calcolati e pesati gli indici?
+    answer: >-
+      Gli indici sono generalmente costruiti utilizzando uno dei seguenti
+      approcci:
+
+
+      Ponderato per capitalizzazione di mercato: Le aziende con maggiore valore
+      di mercato hanno un effetto maggiore sul movimento dell'indice. Esempi:
+      S&P 500, FTSE 100.
+
+
+      Ponderato per prezzo: Le azioni con prezzo più alto hanno maggiore
+      influenza indipendentemente dalla dimensione dell'azienda. Esempi: Dow
+      Jones Industrial Average, Nikkei 225.
+  - question: Si può tradare un indice direttamente?
+    answer: >-
+      No. I valori degli indici non possono essere acquistati o venduti
+      direttamente perché sono solo misurazioni. I trader ottengono esposizione
+      tramite strumenti finanziari come CFD, futures, ETF o fondi indicizzati,
+      che replicano o speculano sui movimenti di prezzo dell'indice.
+  - question: Cosa influenza i prezzi degli indici?
+    answer: >
+      I prezzi degli indici reagiscono a condizioni economiche e di mercato
+      ampie, tra cui:
+
+
+      -Dati economici e decisioni delle banche centrali
+
+      -Risultati degli utili delle aziende presenti nell'indice
+
+      -Variazioni dei tassi di interesse ed eventi geopolitici
+
+      -Modifiche alla lista dei componenti dell'indice
+  - question: Quali sono alcuni degli indici più tradati?
+    answer: |-
+      Tra gli indici globali più tradati troviamo:
+
+      -S&P 500 (US 500)
+      -Dow Jones (US30)
+      -NASDAQ 100 (US Tech 100)
+      -FTSE 100 (UK 100)
+      -DAX 40 (Germany 40)
+      -Nikkei 225 (Japan 225)
+  - question: Quali sono gli orari di trading degli indici?
+    answer: >-
+      Gli orari di trading dipendono dalla borsa di ciascun indice. Tramite
+      prodotti come CFD e futures, molti indici sono disponibili quasi 24 ore al
+      giorno, cinque giorni alla settimana.
