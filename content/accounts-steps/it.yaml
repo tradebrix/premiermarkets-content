@@ -1,0 +1,16 @@
+languageCode: it
+locale: it
+title: Entra nello standard Premier di trading
+highlightedWord: Premier
+ctaButtonText: Start Trading
+ctaButtonLink: https://secure.premiermarkets.com/register
+steps:
+  - count: '1'
+    title: Registrati
+    subtitle: Registrati in pochi minuti e verifica il tuo conto in modo sicuro.
+  - count: '2'
+    title: Fondi
+    subtitle: Deposita in sicurezza con metodi di pagamento affidabili.
+  - count: '3'
+    title: Inizia a Fare Trading
+    subtitle: Fai trading istantaneamente con prelievi fluidi e rapidi.
