@@ -46,7 +46,7 @@ languages:
     nativeName: Indonesia
     flag: /figma/idn.svg
     emoji: 🇮🇩
-    enabled: true
+    enabled: false
   - code: vn
     name: Tiếng Việt
     nativeName: Tiếng Việt
